@@ -1,0 +1,1001 @@
+transaction_id,atm_location,transaction_type,amount,transaction_time,customer_id,status,date,hour,day_of_week,month
+TXN202604190001,Residential Area West,withdrawal,97.14,2026-04-13 17:30:14.865071,CUST6664,success,2026-04-13,17,Monday,April
+TXN202604190002,Downtown Branch,withdrawal,21.84,2026-04-15 18:44:14.865200,CUST8025,success,2026-04-15,18,Wednesday,April
+TXN202604190003,Shopping Mall South,withdrawal,497.94,2026-03-31 15:09:14.865255,CUST3228,success,2026-03-31,15,Tuesday,March
+TXN202604190004,Airport Terminal,withdrawal,218.2,2026-04-08 17:29:14.865293,CUST8898,success,2026-04-08,17,Wednesday,April
+TXN202604190005,Hospital Complex,balance_check,0.0,2026-04-05 01:43:14.865326,CUST9155,success,2026-04-05,1,Sunday,April
+TXN202604190006,Airport Terminal,balance_check,0.0,2026-03-26 15:58:14.865352,CUST2042,success,2026-03-26,15,Thursday,March
+TXN202604190007,Residential Area West,withdrawal,38.36,2026-04-18 12:24:14.865379,CUST1036,success,2026-04-18,12,Saturday,April
+TXN202604190008,Train Station Central,deposit,1983.78,2026-03-20 03:50:14.865411,CUST3325,success,2026-03-20,3,Friday,March
+TXN202604190009,Business District,withdrawal,397.51,2026-04-16 03:32:14.865440,CUST9586,success,2026-04-16,3,Thursday,April
+TXN202604190010,Hospital Complex,withdrawal,93.85,2026-03-23 21:03:14.865470,CUST4606,success,2026-03-23,21,Monday,March
+TXN202604190011,Shopping Mall South,withdrawal,152.47,2026-03-24 03:55:14.865500,CUST2525,success,2026-03-24,3,Tuesday,March
+TXN202604190012,Train Station Central,withdrawal,329.8,2026-04-11 19:51:14.865529,CUST3769,success,2026-04-11,19,Saturday,April
+TXN202604190013,Airport Terminal,balance_check,0.0,2026-04-08 22:51:14.865558,CUST3756,success,2026-04-08,22,Wednesday,April
+TXN202604190014,Downtown Branch,transfer,923.27,2026-03-26 22:55:14.865592,CUST8708,success,2026-03-26,22,Thursday,March
+TXN202604190015,Business District,withdrawal,150.47,2026-04-17 18:48:14.865623,CUST2290,success,2026-04-17,18,Friday,April
+TXN202604190016,Shopping Mall South,deposit,1966.39,2026-03-23 23:31:14.865652,CUST3898,success,2026-03-23,23,Monday,March
+TXN202604190017,Downtown Branch,withdrawal,106.47,2026-04-02 04:32:14.865680,CUST4254,success,2026-04-02,4,Thursday,April
+TXN202604190018,Business District,withdrawal,510.64,2026-03-25 16:30:14.865710,CUST1416,success,2026-03-25,16,Wednesday,March
+TXN202604190019,Business District,balance_check,0.0,2026-03-31 16:30:14.865739,CUST6833,success,2026-03-31,16,Tuesday,March
+TXN202604190020,Downtown Branch,balance_check,0.0,2026-03-27 21:17:14.865763,CUST2225,success,2026-03-27,21,Friday,March
+TXN202604190021,Airport Terminal,withdrawal,196.45,2026-04-05 23:23:14.865782,CUST4089,success,2026-04-05,23,Sunday,April
+TXN202604190022,Shopping Mall South,balance_check,0.0,2026-04-14 15:38:14.865800,CUST5021,success,2026-04-14,15,Tuesday,April
+TXN202604190023,Shopping Mall North,withdrawal,216.72,2026-04-03 22:08:14.865815,CUST4535,success,2026-04-03,22,Friday,April
+TXN202604190024,Business District,balance_check,0.0,2026-04-14 19:04:14.865831,CUST6462,success,2026-04-14,19,Tuesday,April
+TXN202604190025,Sports Stadium,deposit,683.83,2026-04-13 15:52:14.865845,CUST8404,success,2026-04-13,15,Monday,April
+TXN202604190026,Train Station Central,withdrawal,105.83,2026-04-12 02:14:14.865860,CUST2998,failed,2026-04-12,2,Sunday,April
+TXN202604190027,Train Station Central,withdrawal,201.14,2026-03-27 17:46:14.865892,CUST9718,success,2026-03-27,17,Friday,March
+TXN202604190028,Downtown Branch,balance_check,0.0,2026-04-06 10:08:14.865909,CUST2821,success,2026-04-06,10,Monday,April
+TXN202604190029,Business District,balance_check,0.0,2026-04-12 22:00:14.865923,CUST9192,success,2026-04-12,22,Sunday,April
+TXN202604190030,Sports Stadium,withdrawal,212.71,2026-04-14 08:54:14.865936,CUST8737,success,2026-04-14,8,Tuesday,April
+TXN202604190031,Train Station Central,withdrawal,182.77,2026-04-15 15:52:14.865953,CUST8011,success,2026-04-15,15,Wednesday,April
+TXN202604190032,Hospital Complex,withdrawal,19.74,2026-04-06 00:12:14.865969,CUST5423,success,2026-04-06,0,Monday,April
+TXN202604190033,Tourist Center,balance_check,0.0,2026-04-15 08:35:14.865988,CUST5280,success,2026-04-15,8,Wednesday,April
+TXN202604190034,Tourist Center,deposit,1636.84,2026-04-08 15:38:14.866002,CUST8614,success,2026-04-08,15,Wednesday,April
+TXN202604190035,Business District,withdrawal,385.54,2026-03-25 02:44:14.866018,CUST4493,success,2026-03-25,2,Wednesday,March
+TXN202604190036,University Campus Main,withdrawal,76.08,2026-04-04 11:59:14.866035,CUST3548,success,2026-04-04,11,Saturday,April
+TXN202604190037,Airport Terminal,deposit,759.59,2026-03-23 03:07:14.866051,CUST1287,success,2026-03-23,3,Monday,March
+TXN202604190038,Residential Area West,withdrawal,392.78,2026-04-11 15:44:14.866066,CUST7322,success,2026-04-11,15,Saturday,April
+TXN202604190039,Shopping Mall North,withdrawal,156.0,2026-04-06 08:56:14.866082,CUST6378,success,2026-04-06,8,Monday,April
+TXN202604190040,University Campus Main,withdrawal,21.0,2026-04-03 02:18:14.866102,CUST1281,success,2026-04-03,2,Friday,April
+TXN202604190041,Downtown Branch,balance_check,0.0,2026-03-26 17:37:14.866119,CUST7321,success,2026-03-26,17,Thursday,March
+TXN202604190042,Downtown Branch,withdrawal,191.23,2026-04-16 17:48:14.866133,CUST4213,success,2026-04-16,17,Thursday,April
+TXN202604190043,Hospital Complex,balance_check,0.0,2026-04-05 22:59:14.866150,CUST4067,success,2026-04-05,22,Sunday,April
+TXN202604190044,University Campus Main,withdrawal,62.21,2026-03-24 23:55:14.866164,CUST3595,success,2026-03-24,23,Tuesday,March
+TXN202604190045,Shopping Mall North,withdrawal,181.92,2026-04-14 23:22:14.866180,CUST6749,success,2026-04-14,23,Tuesday,April
+TXN202604190046,Sports Stadium,balance_check,0.0,2026-04-09 17:18:14.866196,CUST3136,success,2026-04-09,17,Thursday,April
+TXN202604190047,University Campus Main,withdrawal,81.83,2026-04-15 15:20:14.866209,CUST8607,success,2026-04-15,15,Wednesday,April
+TXN202604190048,Residential Area East,withdrawal,293.8,2026-03-30 10:42:14.866226,CUST8541,success,2026-03-30,10,Monday,March
+TXN202604190049,Business District,balance_check,0.0,2026-03-22 19:00:14.866242,CUST4356,success,2026-03-22,19,Sunday,March
+TXN202604190050,Downtown Branch,balance_check,0.0,2026-04-01 18:10:14.866255,CUST6008,success,2026-04-01,18,Wednesday,April
+TXN202604190051,Residential Area West,deposit,817.54,2026-03-22 15:22:14.866268,CUST4815,failed,2026-03-22,15,Sunday,March
+TXN202604190052,Residential Area East,withdrawal,101.79,2026-04-13 18:15:14.866282,CUST3195,success,2026-04-13,18,Monday,April
+TXN202604190053,University Campus Main,withdrawal,192.94,2026-04-16 19:58:14.866301,CUST4089,success,2026-04-16,19,Thursday,April
+TXN202604190054,Downtown Branch,balance_check,0.0,2026-03-26 16:10:14.866320,CUST3640,success,2026-03-26,16,Thursday,March
+TXN202604190055,Residential Area East,withdrawal,217.69,2026-03-22 18:13:14.866333,CUST6551,success,2026-03-22,18,Sunday,March
+TXN202604190056,University Campus Main,withdrawal,207.63,2026-03-21 03:53:14.866349,CUST6503,success,2026-03-21,3,Saturday,March
+TXN202604190057,Airport Terminal,withdrawal,131.83,2026-04-16 12:53:14.866365,CUST9945,success,2026-04-16,12,Thursday,April
+TXN202604190058,Residential Area East,withdrawal,193.58,2026-04-10 16:17:14.866381,CUST5136,success,2026-04-10,16,Friday,April
+TXN202604190059,Sports Stadium,withdrawal,21.47,2026-04-18 17:32:14.866398,CUST4349,success,2026-04-18,17,Saturday,April
+TXN202604190060,Shopping Mall South,withdrawal,458.96,2026-03-22 22:33:14.866415,CUST1498,success,2026-03-22,22,Sunday,March
+TXN202604190061,Shopping Mall South,transfer,613.06,2026-03-28 18:10:14.866432,CUST8911,success,2026-03-28,18,Saturday,March
+TXN202604190062,Airport Terminal,withdrawal,189.4,2026-04-05 16:11:14.866448,CUST5280,success,2026-04-05,16,Sunday,April
+TXN202604190063,Downtown Branch,balance_check,0.0,2026-04-01 23:30:14.866464,CUST5790,success,2026-04-01,23,Wednesday,April
+TXN202604190064,Downtown Branch,transfer,449.15,2026-04-02 20:09:14.866477,CUST6873,success,2026-04-02,20,Thursday,April
+TXN202604190065,Residential Area West,transfer,156.52,2026-04-04 12:10:14.866492,CUST9974,success,2026-04-04,12,Saturday,April
+TXN202604190066,Train Station Central,withdrawal,279.54,2026-04-17 22:41:14.866508,CUST7620,success,2026-04-17,22,Friday,April
+TXN202604190067,Shopping Mall North,withdrawal,36.18,2026-04-12 23:13:14.866525,CUST4358,success,2026-04-12,23,Sunday,April
+TXN202604190068,Shopping Mall North,withdrawal,98.61,2026-04-02 17:53:14.866545,CUST2759,success,2026-04-02,17,Thursday,April
+TXN202604190069,Tourist Center,withdrawal,278.97,2026-04-07 03:58:14.866561,CUST1676,success,2026-04-07,3,Tuesday,April
+TXN202604190070,Tourist Center,withdrawal,41.25,2026-03-27 23:10:14.866578,CUST4813,success,2026-03-27,23,Friday,March
+TXN202604190071,Hospital Complex,balance_check,0.0,2026-03-30 20:16:14.866595,CUST8528,success,2026-03-30,20,Monday,March
+TXN202604190072,University Campus Science,withdrawal,286.24,2026-04-17 09:54:14.866611,CUST9745,success,2026-04-17,9,Friday,April
+TXN202604190073,Shopping Mall North,balance_check,0.0,2026-03-20 16:37:14.866627,CUST9174,success,2026-03-20,16,Friday,March
+TXN202604190074,Downtown Branch,withdrawal,529.18,2026-03-21 23:09:14.866641,CUST2236,success,2026-03-21,23,Saturday,March
+TXN202604190075,Shopping Mall North,balance_check,0.0,2026-04-07 22:46:14.866657,CUST7822,success,2026-04-07,22,Tuesday,April
+TXN202604190076,Airport Terminal,withdrawal,195.97,2026-04-07 23:54:14.866671,CUST8861,success,2026-04-07,23,Tuesday,April
+TXN202604190077,Downtown Branch,deposit,1846.96,2026-03-22 22:45:14.866687,CUST1528,success,2026-03-22,22,Sunday,March
+TXN202604190078,Residential Area West,transfer,830.37,2026-03-27 03:10:14.866704,CUST8007,success,2026-03-27,3,Friday,March
+TXN202604190079,Shopping Mall North,deposit,851.82,2026-04-07 01:23:14.866720,CUST8243,success,2026-04-07,1,Tuesday,April
+TXN202604190080,Sports Stadium,transfer,682.12,2026-04-19 03:24:14.866734,CUST6395,success,2026-04-19,3,Sunday,April
+TXN202604190081,Shopping Mall North,withdrawal,434.41,2026-04-17 18:39:14.866751,CUST1329,success,2026-04-17,18,Friday,April
+TXN202604190082,Industrial Zone,balance_check,0.0,2026-04-04 23:05:14.866770,CUST3129,success,2026-04-04,23,Saturday,April
+TXN202604190083,Downtown Branch,transfer,80.24,2026-04-15 09:05:14.866784,CUST2152,success,2026-04-15,9,Wednesday,April
+TXN202604190084,Residential Area West,balance_check,0.0,2026-03-29 01:15:14.866799,CUST2555,success,2026-03-29,1,Sunday,March
+TXN202604190085,Tourist Center,deposit,560.66,2026-04-06 02:37:14.866813,CUST6416,success,2026-04-06,2,Monday,April
+TXN202604190086,Downtown Branch,deposit,1463.11,2026-03-28 18:23:14.866827,CUST5397,success,2026-03-28,18,Saturday,March
+TXN202604190087,Airport Terminal,deposit,204.76,2026-04-07 23:26:14.866842,CUST4950,success,2026-04-07,23,Tuesday,April
+TXN202604190088,Train Station Central,withdrawal,411.43,2026-04-11 04:22:14.866857,CUST2708,success,2026-04-11,4,Saturday,April
+TXN202604190089,University Campus Science,withdrawal,198.46,2026-03-25 07:06:14.866873,CUST6046,success,2026-03-25,7,Wednesday,March
+TXN202604190090,Airport Terminal,withdrawal,94.8,2026-04-15 02:07:14.866889,CUST5617,success,2026-04-15,2,Wednesday,April
+TXN202604190091,Tourist Center,deposit,1851.72,2026-03-21 17:34:14.866906,CUST1245,success,2026-03-21,17,Saturday,March
+TXN202604190092,Business District,deposit,809.23,2026-03-31 23:22:14.866921,CUST7845,success,2026-03-31,23,Tuesday,March
+TXN202604190093,Shopping Mall South,withdrawal,182.81,2026-04-11 17:28:14.866938,CUST8850,success,2026-04-11,17,Saturday,April
+TXN202604190094,Downtown Branch,balance_check,0.0,2026-04-16 11:30:14.866955,CUST7482,success,2026-04-16,11,Thursday,April
+TXN202604190095,Residential Area East,withdrawal,154.16,2026-04-11 14:06:14.866971,CUST8019,success,2026-04-11,14,Saturday,April
+TXN202604190096,University Campus Main,transfer,642.43,2026-04-15 16:00:14.866988,CUST3855,success,2026-04-15,16,Wednesday,April
+TXN202604190097,Downtown Branch,withdrawal,183.93,2026-03-28 03:40:14.867005,CUST5710,success,2026-03-28,3,Saturday,March
+TXN202604190098,Shopping Mall North,withdrawal,59.96,2026-04-11 18:55:14.867022,CUST9726,success,2026-04-11,18,Saturday,April
+TXN202604190099,Hospital Complex,balance_check,0.0,2026-03-22 13:08:14.867038,CUST7419,success,2026-03-22,13,Sunday,March
+TXN202604190100,Downtown Branch,withdrawal,103.54,2026-03-19 18:38:14.867052,CUST2727,success,2026-03-19,18,Thursday,March
+TXN202604190101,Shopping Mall North,withdrawal,43.0,2026-04-18 04:36:14.867068,CUST2326,success,2026-04-18,4,Saturday,April
+TXN202604190102,Shopping Mall South,withdrawal,199.75,2026-04-06 07:31:14.867084,CUST2409,success,2026-04-06,7,Monday,April
+TXN202604190103,University Campus Main,transfer,800.6,2026-04-07 16:15:14.867100,CUST2657,success,2026-04-07,16,Tuesday,April
+TXN202604190104,Downtown Branch,withdrawal,64.82,2026-04-12 22:32:14.867114,CUST8042,success,2026-04-12,22,Sunday,April
+TXN202604190105,Residential Area West,withdrawal,321.32,2026-04-10 23:44:14.867130,CUST7604,success,2026-04-10,23,Friday,April
+TXN202604190106,Residential Area West,withdrawal,315.35,2026-04-17 02:55:14.867146,CUST5728,success,2026-04-17,2,Friday,April
+TXN202604190107,Residential Area West,balance_check,0.0,2026-03-26 03:21:14.867162,CUST9327,success,2026-03-26,3,Thursday,March
+TXN202604190108,Residential Area West,balance_check,0.0,2026-04-03 04:54:14.867176,CUST8977,success,2026-04-03,4,Friday,April
+TXN202604190109,Residential Area West,deposit,476.06,2026-04-08 03:14:14.867192,CUST9518,success,2026-04-08,3,Wednesday,April
+TXN202604190110,University Campus Main,withdrawal,300.0,2026-03-24 04:04:14.867207,CUST2484,failed,2026-03-24,4,Tuesday,March
+TXN202604190111,University Campus Science,withdrawal,91.64,2026-04-10 02:46:14.867225,CUST2091,success,2026-04-10,2,Friday,April
+TXN202604190112,Residential Area East,withdrawal,204.73,2026-04-01 02:28:14.867242,CUST6084,success,2026-04-01,2,Wednesday,April
+TXN202604190113,Shopping Mall South,deposit,1512.36,2026-03-30 15:08:14.867258,CUST5714,success,2026-03-30,15,Monday,March
+TXN202604190114,Shopping Mall North,withdrawal,312.08,2026-03-29 15:56:14.867272,CUST7837,success,2026-03-29,15,Sunday,March
+TXN202604190115,Downtown Branch,withdrawal,299.69,2026-03-29 16:45:14.867289,CUST7686,success,2026-03-29,16,Sunday,March
+TXN202604190116,Residential Area East,withdrawal,202.28,2026-04-10 23:08:14.867305,CUST3622,success,2026-04-10,23,Friday,April
+TXN202604190117,Downtown Branch,withdrawal,203.72,2026-04-16 02:00:14.867322,CUST2558,success,2026-04-16,2,Thursday,April
+TXN202604190118,Downtown Branch,withdrawal,429.18,2026-04-08 15:35:14.867342,CUST3828,failed,2026-04-08,15,Wednesday,April
+TXN202604190119,Train Station Central,deposit,1443.7,2026-04-03 16:01:14.867359,CUST1427,success,2026-04-03,16,Friday,April
+TXN202604190120,Downtown Branch,transfer,982.62,2026-04-04 03:28:14.867374,CUST6935,success,2026-04-04,3,Saturday,April
+TXN202604190121,Shopping Mall North,withdrawal,40.34,2026-04-06 11:51:14.867389,CUST5222,success,2026-04-06,11,Monday,April
+TXN202604190122,Hospital Complex,withdrawal,208.94,2026-03-24 02:32:14.867405,CUST9838,success,2026-03-24,2,Tuesday,March
+TXN202604190123,Hospital Complex,withdrawal,183.09,2026-04-15 17:58:14.867421,CUST8062,success,2026-04-15,17,Wednesday,April
+TXN202604190124,Business District,balance_check,0.0,2026-04-04 18:51:14.867437,CUST3596,success,2026-04-04,18,Saturday,April
+TXN202604190125,Airport Terminal,withdrawal,393.17,2026-04-12 13:14:14.867450,CUST1658,success,2026-04-12,13,Sunday,April
+TXN202604190126,Tourist Center,deposit,126.34,2026-03-21 23:56:14.867469,CUST7011,success,2026-03-21,23,Saturday,March
+TXN202604190127,Airport Terminal,balance_check,0.0,2026-04-17 22:05:14.867483,CUST3112,success,2026-04-17,22,Friday,April
+TXN202604190128,Industrial Zone,withdrawal,191.86,2026-04-03 03:44:14.867496,CUST3292,success,2026-04-03,3,Friday,April
+TXN202604190129,Shopping Mall North,withdrawal,326.68,2026-03-23 23:16:14.867512,CUST3545,success,2026-03-23,23,Monday,March
+TXN202604190130,Downtown Branch,balance_check,0.0,2026-03-29 16:30:14.867529,CUST1971,success,2026-03-29,16,Sunday,March
+TXN202604190131,University Campus Main,balance_check,0.0,2026-03-28 17:03:14.867544,CUST1209,success,2026-03-28,17,Saturday,March
+TXN202604190132,Downtown Branch,withdrawal,19.17,2026-04-17 16:55:14.867558,CUST9899,success,2026-04-17,16,Friday,April
+TXN202604190133,Train Station Central,withdrawal,175.84,2026-03-19 15:22:14.867574,CUST4194,success,2026-03-19,15,Thursday,March
+TXN202604190134,Downtown Branch,withdrawal,209.96,2026-04-08 01:18:14.867590,CUST1704,success,2026-04-08,1,Wednesday,April
+TXN202604190135,Residential Area West,withdrawal,325.69,2026-04-04 12:28:14.867607,CUST1469,success,2026-04-04,12,Saturday,April
+TXN202604190136,Shopping Mall North,withdrawal,21.24,2026-04-14 18:25:14.867623,CUST2898,success,2026-04-14,18,Tuesday,April
+TXN202604190137,Train Station Central,deposit,949.41,2026-04-13 12:37:14.867639,CUST6047,success,2026-04-13,12,Monday,April
+TXN202604190138,University Campus Science,withdrawal,118.88,2026-03-30 17:30:14.867653,CUST9374,success,2026-03-30,17,Monday,March
+TXN202604190139,Industrial Zone,balance_check,0.0,2026-04-06 23:00:14.867669,CUST9070,success,2026-04-06,23,Monday,April
+TXN202604190140,Train Station Central,withdrawal,375.95,2026-03-24 17:57:14.867682,CUST6711,success,2026-03-24,17,Tuesday,March
+TXN202604190141,Residential Area East,withdrawal,460.86,2026-03-25 22:23:14.867698,CUST1509,success,2026-03-25,22,Wednesday,March
+TXN202604190142,Hospital Complex,balance_check,0.0,2026-04-10 22:29:14.867715,CUST4232,success,2026-04-10,22,Friday,April
+TXN202604190143,University Campus Main,withdrawal,99.14,2026-03-20 18:00:14.867731,CUST7957,success,2026-03-20,18,Friday,March
+TXN202604190144,Hospital Complex,withdrawal,80.62,2026-04-12 23:07:14.867748,CUST5421,success,2026-04-12,23,Sunday,April
+TXN202604190145,Shopping Mall North,withdrawal,39.28,2026-03-27 11:17:14.867764,CUST1101,success,2026-03-27,11,Friday,March
+TXN202604190146,Downtown Branch,withdrawal,21.05,2026-04-07 16:28:14.867781,CUST5539,success,2026-04-07,16,Tuesday,April
+TXN202604190147,Shopping Mall North,withdrawal,183.41,2026-03-31 05:32:14.867797,CUST6009,success,2026-03-31,5,Tuesday,March
+TXN202604190148,Downtown Branch,withdrawal,38.7,2026-03-23 23:54:14.867813,CUST3433,success,2026-03-23,23,Monday,March
+TXN202604190149,Downtown Branch,balance_check,0.0,2026-03-23 17:55:14.867829,CUST4604,success,2026-03-23,17,Monday,March
+TXN202604190150,Shopping Mall North,withdrawal,41.14,2026-04-02 03:54:14.867846,CUST3460,success,2026-04-02,3,Thursday,April
+TXN202604190151,Business District,balance_check,0.0,2026-03-31 00:10:14.867862,CUST7965,success,2026-03-31,0,Tuesday,March
+TXN202604190152,Shopping Mall North,withdrawal,90.72,2026-04-09 15:34:14.867876,CUST7520,success,2026-04-09,15,Thursday,April
+TXN202604190153,Tourist Center,balance_check,0.0,2026-03-20 16:07:14.867901,CUST1877,success,2026-03-20,16,Friday,March
+TXN202604190154,Sports Stadium,balance_check,0.0,2026-03-31 12:27:14.867914,CUST4444,success,2026-03-31,12,Tuesday,March
+TXN202604190155,Hospital Complex,withdrawal,186.04,2026-04-03 04:03:14.867927,CUST8497,success,2026-04-03,4,Friday,April
+TXN202604190156,Sports Stadium,withdrawal,279.79,2026-04-17 15:15:14.867944,CUST3110,success,2026-04-17,15,Friday,April
+TXN202604190157,Shopping Mall South,withdrawal,163.94,2026-04-16 18:21:14.867961,CUST1203,success,2026-04-16,18,Thursday,April
+TXN202604190158,Sports Stadium,withdrawal,399.05,2026-04-09 00:02:14.867977,CUST6036,success,2026-04-09,0,Thursday,April
+TXN202604190159,Business District,withdrawal,183.89,2026-03-31 15:46:14.867996,CUST6907,success,2026-03-31,15,Tuesday,March
+TXN202604190160,Train Station Central,withdrawal,43.42,2026-03-20 02:06:14.868013,CUST6477,success,2026-03-20,2,Friday,March
+TXN202604190161,University Campus Science,balance_check,0.0,2026-04-14 16:59:14.868029,CUST1031,success,2026-04-14,16,Tuesday,April
+TXN202604190162,Airport Terminal,withdrawal,206.2,2026-03-31 11:38:14.868042,CUST2222,success,2026-03-31,11,Tuesday,March
+TXN202604190163,Business District,withdrawal,91.31,2026-03-27 02:17:14.868058,CUST2868,success,2026-03-27,2,Friday,March
+TXN202604190164,Hospital Complex,withdrawal,110.42,2026-04-10 06:09:14.868074,CUST5992,success,2026-04-10,6,Friday,April
+TXN202604190165,Industrial Zone,deposit,1736.55,2026-04-10 03:49:14.868091,CUST5634,success,2026-04-10,3,Friday,April
+TXN202604190166,Train Station Central,balance_check,0.0,2026-04-02 03:06:14.868105,CUST1403,success,2026-04-02,3,Thursday,April
+TXN202604190167,Residential Area East,deposit,611.21,2026-03-25 18:30:14.868118,CUST8909,success,2026-03-25,18,Wednesday,March
+TXN202604190168,Business District,deposit,1897.89,2026-03-26 16:11:14.868133,CUST5334,success,2026-03-26,16,Thursday,March
+TXN202604190169,Industrial Zone,withdrawal,286.12,2026-04-18 22:13:14.868147,CUST7534,success,2026-04-18,22,Saturday,April
+TXN202604190170,Residential Area East,withdrawal,391.92,2026-04-19 06:32:14.868164,CUST5006,success,2026-04-19,6,Sunday,April
+TXN202604190171,Airport Terminal,balance_check,0.0,2026-04-06 19:55:14.868182,CUST1992,success,2026-04-06,19,Monday,April
+TXN202604190172,Business District,withdrawal,309.72,2026-04-08 02:12:14.868196,CUST1777,success,2026-04-08,2,Wednesday,April
+TXN202604190173,Residential Area East,withdrawal,20.87,2026-04-06 18:29:14.868213,CUST6513,success,2026-04-06,18,Monday,April
+TXN202604190174,Shopping Mall North,withdrawal,374.83,2026-04-19 03:22:14.868232,CUST3068,success,2026-04-19,3,Sunday,April
+TXN202604190175,Train Station Central,withdrawal,187.21,2026-04-10 03:45:14.868249,CUST4618,success,2026-04-10,3,Friday,April
+TXN202604190176,Train Station Central,withdrawal,105.41,2026-04-09 07:02:14.868265,CUST3781,success,2026-04-09,7,Thursday,April
+TXN202604190177,Business District,balance_check,0.0,2026-03-20 13:06:14.868282,CUST6712,success,2026-03-20,13,Friday,March
+TXN202604190178,Residential Area West,withdrawal,111.21,2026-03-23 20:02:14.868295,CUST1242,success,2026-03-23,20,Monday,March
+TXN202604190179,University Campus Science,withdrawal,82.03,2026-03-21 23:45:14.868311,CUST8119,success,2026-03-21,23,Saturday,March
+TXN202604190180,Shopping Mall North,withdrawal,307.27,2026-04-01 03:25:14.868328,CUST3190,success,2026-04-01,3,Wednesday,April
+TXN202604190181,Business District,balance_check,0.0,2026-04-10 03:27:14.868344,CUST3367,success,2026-04-10,3,Friday,April
+TXN202604190182,Business District,withdrawal,98.14,2026-03-29 06:28:14.868356,CUST8213,success,2026-03-29,6,Sunday,March
+TXN202604190183,Business District,withdrawal,37.49,2026-03-20 02:53:14.868372,CUST3148,success,2026-03-20,2,Friday,March
+TXN202604190184,Shopping Mall South,withdrawal,318.78,2026-03-24 22:27:14.868391,CUST5994,success,2026-03-24,22,Tuesday,March
+TXN202604190185,Shopping Mall North,withdrawal,167.74,2026-03-22 05:53:14.868407,CUST8529,success,2026-03-22,5,Sunday,March
+TXN202604190186,Business District,withdrawal,283.73,2026-04-18 18:36:14.868423,CUST9927,success,2026-04-18,18,Saturday,April
+TXN202604190187,Sports Stadium,withdrawal,18.13,2026-03-31 15:13:14.868439,CUST4456,success,2026-03-31,15,Tuesday,March
+TXN202604190188,Airport Terminal,balance_check,0.0,2026-04-11 15:10:14.868455,CUST3561,success,2026-04-11,15,Saturday,April
+TXN202604190189,Residential Area West,withdrawal,404.89,2026-03-25 22:22:14.868471,CUST3309,success,2026-03-25,22,Wednesday,March
+TXN202604190190,Residential Area East,withdrawal,415.69,2026-04-07 20:12:14.868487,CUST7285,success,2026-04-07,20,Tuesday,April
+TXN202604190191,Shopping Mall North,withdrawal,19.66,2026-04-16 18:34:14.868503,CUST3330,success,2026-04-16,18,Thursday,April
+TXN202604190192,Downtown Branch,withdrawal,300.22,2026-04-12 00:29:14.868519,CUST8963,success,2026-04-12,0,Sunday,April
+TXN202604190193,Train Station Central,withdrawal,20.89,2026-04-15 17:19:14.868538,CUST4387,success,2026-04-15,17,Wednesday,April
+TXN202604190194,Business District,withdrawal,185.45,2026-03-31 18:11:14.868554,CUST6276,success,2026-03-31,18,Tuesday,March
+TXN202604190195,Downtown Branch,deposit,441.89,2026-04-06 02:12:14.868570,CUST8573,success,2026-04-06,2,Monday,April
+TXN202604190196,Business District,withdrawal,96.41,2026-04-01 09:13:14.868584,CUST9682,success,2026-04-01,9,Wednesday,April
+TXN202604190197,Airport Terminal,withdrawal,207.27,2026-03-31 22:46:14.868600,CUST1094,success,2026-03-31,22,Tuesday,March
+TXN202604190198,Residential Area West,withdrawal,279.4,2026-04-16 00:00:14.868616,CUST3792,success,2026-04-16,0,Thursday,April
+TXN202604190199,University Campus Science,deposit,1989.77,2026-04-16 18:59:14.868632,CUST3983,success,2026-04-16,18,Thursday,April
+TXN202604190200,Residential Area West,withdrawal,139.43,2026-04-02 18:59:14.868646,CUST3995,success,2026-04-02,18,Thursday,April
+TXN202604190201,Sports Stadium,withdrawal,109.41,2026-03-21 16:39:14.868662,CUST6065,success,2026-03-21,16,Saturday,March
+TXN202604190202,Shopping Mall South,withdrawal,204.46,2026-04-06 02:10:14.868679,CUST5728,success,2026-04-06,2,Monday,April
+TXN202604190203,Shopping Mall North,withdrawal,93.7,2026-04-18 23:51:14.868695,CUST5665,success,2026-04-18,23,Saturday,April
+TXN202604190204,Shopping Mall South,withdrawal,109.46,2026-03-22 23:36:14.868711,CUST6720,success,2026-03-22,23,Sunday,March
+TXN202604190205,Hospital Complex,balance_check,0.0,2026-04-04 18:08:14.868726,CUST8596,success,2026-04-04,18,Saturday,April
+TXN202604190206,Shopping Mall South,withdrawal,193.46,2026-04-12 16:35:14.868741,CUST8977,success,2026-04-12,16,Sunday,April
+TXN202604190207,Shopping Mall South,withdrawal,481.34,2026-04-07 22:20:14.868759,CUST1291,success,2026-04-07,22,Tuesday,April
+TXN202604190208,Residential Area East,withdrawal,202.08,2026-03-27 16:08:14.868775,CUST5810,success,2026-03-27,16,Friday,March
+TXN202604190209,Tourist Center,balance_check,0.0,2026-03-26 23:40:14.868794,CUST3095,success,2026-03-26,23,Thursday,March
+TXN202604190210,Residential Area West,withdrawal,41.09,2026-04-13 13:36:14.868807,CUST6128,success,2026-04-13,13,Monday,April
+TXN202604190211,Business District,deposit,1379.11,2026-03-20 18:05:14.868823,CUST1327,success,2026-03-20,18,Friday,March
+TXN202604190212,Downtown Branch,deposit,1734.23,2026-03-31 23:42:14.868839,CUST7500,success,2026-03-31,23,Tuesday,March
+TXN202604190213,Train Station Central,withdrawal,169.33,2026-04-09 19:11:14.868853,CUST4500,success,2026-04-09,19,Thursday,April
+TXN202604190214,Residential Area East,withdrawal,43.71,2026-04-09 06:00:14.868869,CUST2123,success,2026-04-09,6,Thursday,April
+TXN202604190215,Airport Terminal,balance_check,0.0,2026-04-13 17:51:14.868886,CUST8003,success,2026-04-13,17,Monday,April
+TXN202604190216,Residential Area East,withdrawal,208.15,2026-03-24 18:00:14.868898,CUST6387,success,2026-03-24,18,Tuesday,March
+TXN202604190217,Shopping Mall South,withdrawal,166.46,2026-03-23 03:48:14.868915,CUST2212,success,2026-03-23,3,Monday,March
+TXN202604190218,Downtown Branch,balance_check,0.0,2026-04-08 19:59:14.868930,CUST7621,success,2026-04-08,19,Wednesday,April
+TXN202604190219,Shopping Mall North,withdrawal,281.55,2026-03-24 23:09:14.868943,CUST5665,success,2026-03-24,23,Tuesday,March
+TXN202604190220,Residential Area East,withdrawal,60.52,2026-04-18 18:20:14.868959,CUST3977,success,2026-04-18,18,Saturday,April
+TXN202604190221,Residential Area West,balance_check,0.0,2026-04-05 21:35:14.868975,CUST6591,success,2026-04-05,21,Sunday,April
+TXN202604190222,Hospital Complex,deposit,1239.87,2026-04-03 05:38:14.868988,CUST5671,success,2026-04-03,5,Friday,April
+TXN202604190223,Residential Area West,withdrawal,43.07,2026-03-19 15:57:14.869002,CUST2795,success,2026-03-19,15,Thursday,March
+TXN202604190224,Residential Area West,withdrawal,21.5,2026-03-23 18:17:14.869018,CUST9884,success,2026-03-23,18,Monday,March
+TXN202604190225,Airport Terminal,withdrawal,168.78,2026-04-04 12:39:14.869034,CUST2936,success,2026-04-04,12,Saturday,April
+TXN202604190226,Shopping Mall North,balance_check,0.0,2026-03-28 22:30:14.869050,CUST7881,success,2026-03-28,22,Saturday,March
+TXN202604190227,Airport Terminal,withdrawal,459.75,2026-03-22 02:17:14.869063,CUST8282,success,2026-03-22,2,Sunday,March
+TXN202604190228,Downtown Branch,withdrawal,199.37,2026-04-11 13:13:14.869081,CUST4594,success,2026-04-11,13,Saturday,April
+TXN202604190229,University Campus Main,withdrawal,172.81,2026-04-13 14:33:14.869097,CUST4629,success,2026-04-13,14,Monday,April
+TXN202604190230,Residential Area East,withdrawal,81.91,2026-03-29 03:11:14.869113,CUST7844,success,2026-03-29,3,Sunday,March
+TXN202604190231,Airport Terminal,withdrawal,37.06,2026-03-29 10:05:14.869133,CUST5411,success,2026-03-29,10,Sunday,March
+TXN202604190232,Shopping Mall South,withdrawal,291.93,2026-03-30 17:36:14.869150,CUST2586,success,2026-03-30,17,Monday,March
+TXN202604190233,Shopping Mall North,deposit,1904.09,2026-04-15 18:10:14.869167,CUST9601,success,2026-04-15,18,Wednesday,April
+TXN202604190234,Residential Area West,withdrawal,98.43,2026-04-09 05:37:14.869182,CUST6235,success,2026-04-09,5,Thursday,April
+TXN202604190235,Business District,withdrawal,307.37,2026-04-09 03:51:14.869199,CUST8920,failed,2026-04-09,3,Thursday,April
+TXN202604190236,Business District,withdrawal,127.59,2026-03-27 06:41:14.869215,CUST4885,success,2026-03-27,6,Friday,March
+TXN202604190237,Hospital Complex,deposit,1721.5,2026-04-12 11:42:14.869231,CUST9564,success,2026-04-12,11,Sunday,April
+TXN202604190238,Shopping Mall North,balance_check,0.0,2026-04-04 17:24:14.869245,CUST3425,success,2026-04-04,17,Saturday,April
+TXN202604190239,Tourist Center,withdrawal,198.57,2026-04-13 15:35:14.869258,CUST4922,success,2026-04-13,15,Monday,April
+TXN202604190240,Residential Area West,withdrawal,399.47,2026-04-02 21:43:14.869274,CUST2339,success,2026-04-02,21,Thursday,April
+TXN202604190241,Residential Area West,withdrawal,102.91,2026-04-07 03:52:14.869291,CUST8394,success,2026-04-07,3,Tuesday,April
+TXN202604190242,Downtown Branch,withdrawal,303.62,2026-04-13 23:31:14.869306,CUST7130,success,2026-04-13,23,Monday,April
+TXN202604190243,Residential Area East,balance_check,0.0,2026-04-15 23:34:14.869322,CUST1154,success,2026-04-15,23,Wednesday,April
+TXN202604190244,Industrial Zone,transfer,170.71,2026-04-13 09:47:14.869335,CUST4314,success,2026-04-13,9,Monday,April
+TXN202604190245,Tourist Center,withdrawal,75.88,2026-04-11 09:17:14.869349,CUST2905,success,2026-04-11,9,Saturday,April
+TXN202604190246,University Campus Science,deposit,444.73,2026-04-12 16:42:14.869366,CUST1578,success,2026-04-12,16,Sunday,April
+TXN202604190247,Downtown Branch,withdrawal,103.83,2026-03-22 12:29:14.869380,CUST6658,success,2026-03-22,12,Sunday,March
+TXN202604190248,Shopping Mall North,withdrawal,183.24,2026-04-17 21:39:14.869396,CUST6751,success,2026-04-17,21,Friday,April
+TXN202604190249,Train Station Central,deposit,525.63,2026-03-26 16:13:14.869417,CUST7694,success,2026-03-26,16,Thursday,March
+TXN202604190250,Business District,withdrawal,121.04,2026-04-07 17:21:14.869431,CUST8576,success,2026-04-07,17,Tuesday,April
+TXN202604190251,Airport Terminal,withdrawal,94.15,2026-03-22 17:13:14.869447,CUST4644,success,2026-03-22,17,Sunday,March
+TXN202604190252,Business District,withdrawal,74.42,2026-03-20 20:00:14.869464,CUST7156,success,2026-03-20,20,Friday,March
+TXN202604190253,Shopping Mall North,balance_check,0.0,2026-04-19 05:30:14.869479,CUST6539,success,2026-04-19,5,Sunday,April
+TXN202604190254,Industrial Zone,withdrawal,91.47,2026-03-28 05:34:14.869492,CUST2709,success,2026-03-28,5,Saturday,March
+TXN202604190255,Hospital Complex,withdrawal,102.9,2026-03-26 15:09:14.869508,CUST1704,success,2026-03-26,15,Thursday,March
+TXN202604190256,Airport Terminal,withdrawal,21.67,2026-04-12 16:06:14.869524,CUST9481,success,2026-04-12,16,Sunday,April
+TXN202604190257,Downtown Branch,deposit,1722.67,2026-03-31 23:15:14.869539,CUST1488,success,2026-03-31,23,Tuesday,March
+TXN202604190258,Tourist Center,withdrawal,97.97,2026-04-13 02:48:14.869554,CUST4672,success,2026-04-13,2,Monday,April
+TXN202604190259,Business District,withdrawal,197.08,2026-04-16 03:14:14.869571,CUST9017,success,2026-04-16,3,Thursday,April
+TXN202604190260,Shopping Mall North,withdrawal,62.19,2026-04-13 23:12:14.869587,CUST1351,success,2026-04-13,23,Monday,April
+TXN202604190261,Shopping Mall South,withdrawal,306.82,2026-03-24 16:21:14.869604,CUST5345,success,2026-03-24,16,Tuesday,March
+TXN202604190262,University Campus Science,balance_check,0.0,2026-03-31 12:13:14.869620,CUST4383,success,2026-03-31,12,Tuesday,March
+TXN202604190263,Train Station Central,withdrawal,99.88,2026-04-19 03:36:14.869634,CUST3701,success,2026-04-19,3,Sunday,April
+TXN202604190264,Tourist Center,withdrawal,500.21,2026-03-23 16:59:14.869650,CUST1948,success,2026-03-23,16,Monday,March
+TXN202604190265,Shopping Mall South,withdrawal,186.96,2026-03-27 23:49:14.869666,CUST8446,success,2026-03-27,23,Friday,March
+TXN202604190266,Downtown Branch,withdrawal,203.42,2026-03-31 02:41:14.869682,CUST2464,success,2026-03-31,2,Tuesday,March
+TXN202604190267,Residential Area West,withdrawal,121.43,2026-03-28 19:00:14.869701,CUST8005,success,2026-03-28,19,Saturday,March
+TXN202604190268,Business District,deposit,893.21,2026-04-06 16:15:14.869720,CUST9855,success,2026-04-06,16,Monday,April
+TXN202604190269,Train Station Central,deposit,1867.42,2026-04-11 12:42:14.869737,CUST4809,success,2026-04-11,12,Saturday,April
+TXN202604190270,Business District,withdrawal,360.03,2026-03-25 22:16:14.869754,CUST3857,success,2026-03-25,22,Wednesday,March
+TXN202604190271,Residential Area East,withdrawal,412.32,2026-04-16 12:41:14.869772,CUST8254,success,2026-04-16,12,Thursday,April
+TXN202604190272,Hospital Complex,transfer,990.77,2026-04-03 20:29:14.869789,CUST5574,success,2026-04-03,20,Friday,April
+TXN202604190273,University Campus Science,withdrawal,140.0,2026-03-25 10:52:14.869803,CUST1984,success,2026-03-25,10,Wednesday,March
+TXN202604190274,Business District,balance_check,0.0,2026-04-14 10:56:14.869820,CUST4542,success,2026-04-14,10,Tuesday,April
+TXN202604190275,Shopping Mall North,deposit,1798.12,2026-04-09 18:21:14.869832,CUST9692,success,2026-04-09,18,Thursday,April
+TXN202604190276,Airport Terminal,withdrawal,308.73,2026-04-01 18:14:14.869847,CUST9680,success,2026-04-01,18,Wednesday,April
+TXN202604190277,Industrial Zone,withdrawal,207.67,2026-04-03 16:09:14.869864,CUST1913,success,2026-04-03,16,Friday,April
+TXN202604190278,Shopping Mall North,withdrawal,274.34,2026-04-10 17:30:14.869880,CUST3328,success,2026-04-10,17,Friday,April
+TXN202604190279,Tourist Center,withdrawal,183.98,2026-04-14 00:20:14.869904,CUST3572,success,2026-04-14,0,Tuesday,April
+TXN202604190280,Hospital Complex,balance_check,0.0,2026-03-23 06:41:14.869921,CUST9179,success,2026-03-23,6,Monday,March
+TXN202604190281,Train Station Central,transfer,230.61,2026-04-14 09:09:14.869934,CUST8747,success,2026-04-14,9,Tuesday,April
+TXN202604190282,Hospital Complex,balance_check,0.0,2026-03-19 19:25:14.869949,CUST6878,success,2026-03-19,19,Thursday,March
+TXN202604190283,Train Station Central,deposit,242.19,2026-04-05 21:02:14.869962,CUST8713,success,2026-04-05,21,Sunday,April
+TXN202604190284,Industrial Zone,balance_check,0.0,2026-04-16 23:35:14.869976,CUST3679,success,2026-04-16,23,Thursday,April
+TXN202604190285,Downtown Branch,balance_check,0.0,2026-04-02 06:37:14.869989,CUST3371,success,2026-04-02,6,Thursday,April
+TXN202604190286,Airport Terminal,balance_check,0.0,2026-04-01 15:37:14.870002,CUST3909,success,2026-04-01,15,Wednesday,April
+TXN202604190287,Airport Terminal,balance_check,0.0,2026-04-17 03:10:14.870018,CUST8372,success,2026-04-17,3,Friday,April
+TXN202604190288,Shopping Mall North,withdrawal,219.85,2026-04-03 17:02:14.870032,CUST7318,success,2026-04-03,17,Friday,April
+TXN202604190289,Airport Terminal,withdrawal,75.81,2026-03-31 22:20:14.870049,CUST3933,success,2026-03-31,22,Tuesday,March
+TXN202604190290,Residential Area West,balance_check,0.0,2026-03-31 17:10:14.870066,CUST8535,success,2026-03-31,17,Tuesday,March
+TXN202604190291,Downtown Branch,balance_check,0.0,2026-04-03 22:12:14.870079,CUST6868,success,2026-04-03,22,Friday,April
+TXN202604190292,Downtown Branch,withdrawal,208.97,2026-03-24 01:16:14.870092,CUST9250,success,2026-03-24,1,Tuesday,March
+TXN202604190293,Shopping Mall South,deposit,191.45,2026-04-13 02:34:14.870108,CUST2223,success,2026-04-13,2,Monday,April
+TXN202604190294,University Campus Main,withdrawal,313.89,2026-04-08 23:29:14.870122,CUST2054,success,2026-04-08,23,Wednesday,April
+TXN202604190295,Airport Terminal,withdrawal,390.07,2026-03-28 03:18:14.870139,CUST2154,success,2026-03-28,3,Saturday,March
+TXN202604190296,Business District,balance_check,0.0,2026-03-30 16:36:14.870155,CUST1223,success,2026-03-30,16,Monday,March
+TXN202604190297,Sports Stadium,balance_check,0.0,2026-03-25 16:16:14.870168,CUST2704,success,2026-03-25,16,Wednesday,March
+TXN202604190298,Shopping Mall South,balance_check,0.0,2026-03-22 17:28:14.870182,CUST8303,success,2026-03-22,17,Sunday,March
+TXN202604190299,Industrial Zone,withdrawal,186.4,2026-03-31 15:48:14.870195,CUST6499,success,2026-03-31,15,Tuesday,March
+TXN202604190300,Business District,withdrawal,40.9,2026-04-16 16:47:14.870211,CUST9707,success,2026-04-16,16,Thursday,April
+TXN202604190301,Shopping Mall South,withdrawal,146.82,2026-04-02 02:06:14.870227,CUST7634,success,2026-04-02,2,Thursday,April
+TXN202604190302,Tourist Center,balance_check,0.0,2026-04-13 17:20:14.870243,CUST2115,success,2026-04-13,17,Monday,April
+TXN202604190303,Hospital Complex,withdrawal,219.77,2026-03-25 17:09:14.870256,CUST7869,success,2026-03-25,17,Wednesday,March
+TXN202604190304,Airport Terminal,withdrawal,212.93,2026-03-20 15:34:14.870272,CUST1993,success,2026-03-20,15,Friday,March
+TXN202604190305,Residential Area West,balance_check,0.0,2026-03-31 16:20:14.870288,CUST9289,success,2026-03-31,16,Tuesday,March
+TXN202604190306,University Campus Main,balance_check,0.0,2026-03-22 09:46:14.870305,CUST8841,success,2026-03-22,9,Sunday,March
+TXN202604190307,Shopping Mall South,withdrawal,103.47,2026-03-20 17:38:14.870318,CUST7729,success,2026-03-20,17,Friday,March
+TXN202604190308,Shopping Mall South,withdrawal,182.88,2026-03-21 15:22:14.870337,CUST5945,success,2026-03-21,15,Saturday,March
+TXN202604190309,Business District,withdrawal,298.71,2026-03-23 15:28:14.870355,CUST9562,success,2026-03-23,15,Monday,March
+TXN202604190310,University Campus Science,withdrawal,204.43,2026-04-03 16:46:14.870372,CUST8129,success,2026-04-03,16,Friday,April
+TXN202604190311,Downtown Branch,withdrawal,184.6,2026-04-06 15:09:14.870389,CUST1061,success,2026-04-06,15,Monday,April
+TXN202604190312,Residential Area East,transfer,75.12,2026-03-28 23:05:14.870405,CUST6744,success,2026-03-28,23,Saturday,March
+TXN202604190313,Hospital Complex,balance_check,0.0,2026-04-08 02:23:14.870420,CUST2450,success,2026-04-08,2,Wednesday,April
+TXN202604190314,Shopping Mall North,withdrawal,215.19,2026-04-18 17:41:14.870433,CUST2993,success,2026-04-18,17,Saturday,April
+TXN202604190315,Residential Area East,withdrawal,518.26,2026-03-22 12:41:14.870449,CUST9285,success,2026-03-22,12,Sunday,March
+TXN202604190316,Tourist Center,withdrawal,322.15,2026-04-08 21:20:14.870466,CUST9172,success,2026-04-08,21,Wednesday,April
+TXN202604190317,University Campus Main,withdrawal,545.64,2026-04-01 18:25:14.870482,CUST3925,success,2026-04-01,18,Wednesday,April
+TXN202604190318,Shopping Mall South,withdrawal,294.25,2026-03-25 02:46:14.870498,CUST4338,success,2026-03-25,2,Wednesday,March
+TXN202604190319,Tourist Center,balance_check,0.0,2026-03-31 04:01:14.870515,CUST4133,failed,2026-03-31,4,Tuesday,March
+TXN202604190320,Shopping Mall South,withdrawal,37.63,2026-03-27 18:11:14.870528,CUST8056,success,2026-03-27,18,Friday,March
+TXN202604190321,Residential Area East,withdrawal,191.87,2026-04-16 07:11:14.870544,CUST2833,failed,2026-04-16,7,Thursday,April
+TXN202604190322,Airport Terminal,balance_check,0.0,2026-03-28 13:26:14.870560,CUST2715,success,2026-03-28,13,Saturday,March
+TXN202604190323,Downtown Branch,balance_check,0.0,2026-04-05 23:33:14.870573,CUST4194,success,2026-04-05,23,Sunday,April
+TXN202604190324,Tourist Center,withdrawal,36.42,2026-03-22 02:15:14.870587,CUST4062,success,2026-03-22,2,Sunday,March
+TXN202604190325,Shopping Mall North,withdrawal,112.47,2026-04-14 15:56:14.870606,CUST4409,failed,2026-04-14,15,Tuesday,April
+TXN202604190326,Business District,withdrawal,159.5,2026-04-16 20:49:14.870622,CUST2309,success,2026-04-16,20,Thursday,April
+TXN202604190327,Business District,withdrawal,198.38,2026-04-12 03:19:14.870640,CUST5085,success,2026-04-12,3,Sunday,April
+TXN202604190328,Shopping Mall South,withdrawal,518.96,2026-04-09 17:14:14.870656,CUST7440,success,2026-04-09,17,Thursday,April
+TXN202604190329,Shopping Mall North,balance_check,0.0,2026-04-13 22:54:14.870672,CUST9875,success,2026-04-13,22,Monday,April
+TXN202604190330,Industrial Zone,withdrawal,190.25,2026-03-25 17:59:14.870686,CUST1622,success,2026-03-25,17,Wednesday,March
+TXN202604190331,University Campus Main,withdrawal,283.98,2026-03-27 18:28:14.870702,CUST2647,failed,2026-03-27,18,Friday,March
+TXN202604190332,Shopping Mall South,withdrawal,96.72,2026-04-04 07:56:14.870719,CUST9302,failed,2026-04-04,7,Saturday,April
+TXN202604190333,Hospital Complex,balance_check,0.0,2026-03-29 14:29:14.870735,CUST5817,success,2026-03-29,14,Sunday,March
+TXN202604190334,Hospital Complex,withdrawal,218.9,2026-04-11 22:13:14.870748,CUST9626,success,2026-04-11,22,Saturday,April
+TXN202604190335,Residential Area East,withdrawal,549.0,2026-04-07 02:52:14.870766,CUST6317,success,2026-04-07,2,Tuesday,April
+TXN202604190336,Airport Terminal,transfer,130.44,2026-03-25 18:52:14.870782,CUST7412,success,2026-03-25,18,Wednesday,March
+TXN202604190337,Tourist Center,balance_check,0.0,2026-03-23 17:52:14.870797,CUST5396,success,2026-03-23,17,Monday,March
+TXN202604190338,Train Station Central,balance_check,0.0,2026-03-29 08:54:14.870809,CUST2486,success,2026-03-29,8,Sunday,March
+TXN202604190339,Shopping Mall South,withdrawal,94.23,2026-04-03 04:51:14.870823,CUST2376,success,2026-04-03,4,Friday,April
+TXN202604190340,Sports Stadium,withdrawal,271.09,2026-04-09 18:10:14.870842,CUST9576,success,2026-04-09,18,Thursday,April
+TXN202604190341,Business District,balance_check,0.0,2026-04-03 16:59:14.870860,CUST9114,success,2026-04-03,16,Friday,April
+TXN202604190342,Downtown Branch,withdrawal,215.99,2026-04-16 11:19:14.870873,CUST7204,success,2026-04-16,11,Thursday,April
+TXN202604190343,University Campus Science,withdrawal,80.65,2026-04-19 08:41:14.870890,CUST6653,success,2026-04-19,8,Sunday,April
+TXN202604190344,Shopping Mall North,withdrawal,149.89,2026-04-10 02:19:14.870906,CUST2722,success,2026-04-10,2,Friday,April
+TXN202604190345,Business District,withdrawal,43.09,2026-04-10 18:07:14.870926,CUST1986,success,2026-04-10,18,Friday,April
+TXN202604190346,Shopping Mall South,deposit,1864.27,2026-04-05 17:04:14.870943,CUST2222,success,2026-04-05,17,Sunday,April
+TXN202604190347,Shopping Mall North,deposit,918.75,2026-03-26 18:41:14.870957,CUST5849,success,2026-03-26,18,Thursday,March
+TXN202604190348,Hospital Complex,withdrawal,205.46,2026-04-04 02:46:14.870973,CUST5604,failed,2026-04-04,2,Saturday,April
+TXN202604190349,University Campus Science,withdrawal,90.45,2026-04-13 17:58:14.870989,CUST6753,success,2026-04-13,17,Monday,April
+TXN202604190350,Downtown Branch,balance_check,0.0,2026-04-05 18:12:14.871007,CUST6425,success,2026-04-05,18,Sunday,April
+TXN202604190351,Shopping Mall South,deposit,1437.76,2026-03-27 15:17:14.871020,CUST2120,success,2026-03-27,15,Friday,March
+TXN202604190352,Downtown Branch,withdrawal,187.69,2026-04-10 17:20:14.871035,CUST7127,success,2026-04-10,17,Friday,April
+TXN202604190353,Downtown Branch,withdrawal,307.05,2026-04-11 15:51:14.871051,CUST7320,success,2026-04-11,15,Saturday,April
+TXN202604190354,Airport Terminal,balance_check,0.0,2026-03-26 16:56:14.871069,CUST6546,success,2026-03-26,16,Thursday,March
+TXN202604190355,University Campus Main,withdrawal,82.12,2026-04-09 16:11:14.871083,CUST8809,success,2026-04-09,16,Thursday,April
+TXN202604190356,Shopping Mall North,withdrawal,37.97,2026-03-22 02:24:14.871102,CUST2553,success,2026-03-22,2,Sunday,March
+TXN202604190357,Downtown Branch,withdrawal,294.12,2026-03-22 03:05:14.871119,CUST4156,success,2026-03-22,3,Sunday,March
+TXN202604190358,Shopping Mall South,balance_check,0.0,2026-04-05 15:22:14.871136,CUST8577,success,2026-04-05,15,Sunday,April
+TXN202604190359,Train Station Central,withdrawal,21.63,2026-04-13 06:00:14.871148,CUST8867,success,2026-04-13,6,Monday,April
+TXN202604190360,Shopping Mall South,withdrawal,114.41,2026-04-08 17:23:14.871165,CUST4507,success,2026-04-08,17,Wednesday,April
+TXN202604190361,Train Station Central,deposit,253.02,2026-04-01 17:27:14.871184,CUST8476,success,2026-04-01,17,Wednesday,April
+TXN202604190362,Downtown Branch,balance_check,0.0,2026-03-23 05:35:14.871198,CUST7115,success,2026-03-23,5,Monday,March
+TXN202604190363,Airport Terminal,withdrawal,60.14,2026-04-02 15:19:14.871212,CUST4389,success,2026-04-02,15,Thursday,April
+TXN202604190364,University Campus Science,withdrawal,18.83,2026-04-10 23:11:14.871228,CUST6599,success,2026-04-10,23,Friday,April
+TXN202604190365,Train Station Central,withdrawal,281.14,2026-04-14 17:09:14.871246,CUST2416,success,2026-04-14,17,Tuesday,April
+TXN202604190366,Industrial Zone,withdrawal,327.14,2026-04-03 09:36:14.871263,CUST6671,success,2026-04-03,9,Friday,April
+TXN202604190367,Business District,withdrawal,185.67,2026-04-12 02:43:14.871279,CUST3660,success,2026-04-12,2,Sunday,April
+TXN202604190368,Shopping Mall North,withdrawal,497.63,2026-04-14 07:03:14.871295,CUST9603,success,2026-04-14,7,Tuesday,April
+TXN202604190369,Shopping Mall North,withdrawal,108.96,2026-03-24 22:51:14.871311,CUST8703,success,2026-03-24,22,Tuesday,March
+TXN202604190370,Sports Stadium,transfer,802.81,2026-03-31 13:17:14.871327,CUST1011,success,2026-03-31,13,Tuesday,March
+TXN202604190371,Downtown Branch,withdrawal,64.32,2026-03-28 00:03:14.871342,CUST1083,success,2026-03-28,0,Saturday,March
+TXN202604190372,Shopping Mall North,withdrawal,295.0,2026-04-09 22:10:14.871358,CUST8674,success,2026-04-09,22,Thursday,April
+TXN202604190373,Shopping Mall North,withdrawal,36.61,2026-04-08 17:55:14.871374,CUST4236,success,2026-04-08,17,Wednesday,April
+TXN202604190374,Shopping Mall South,withdrawal,199.79,2026-03-29 16:03:14.871394,CUST5315,success,2026-03-29,16,Sunday,March
+TXN202604190375,Downtown Branch,withdrawal,316.93,2026-03-19 22:49:14.871410,CUST2206,success,2026-03-19,22,Thursday,March
+TXN202604190376,Hospital Complex,balance_check,0.0,2026-04-07 09:04:14.871427,CUST9680,success,2026-04-07,9,Tuesday,April
+TXN202604190377,Shopping Mall South,withdrawal,360.07,2026-03-29 19:32:14.871440,CUST7085,success,2026-03-29,19,Sunday,March
+TXN202604190378,Residential Area East,withdrawal,151.62,2026-04-01 16:01:14.871456,CUST7826,failed,2026-04-01,16,Wednesday,April
+TXN202604190379,Airport Terminal,withdrawal,107.05,2026-03-26 16:26:14.871472,CUST4145,failed,2026-03-26,16,Thursday,March
+TXN202604190380,Downtown Branch,withdrawal,178.42,2026-03-27 23:03:14.871489,CUST4544,success,2026-03-27,23,Friday,March
+TXN202604190381,Shopping Mall North,balance_check,0.0,2026-03-28 07:11:14.871505,CUST3479,success,2026-03-28,7,Saturday,March
+TXN202604190382,Residential Area East,balance_check,0.0,2026-04-01 18:44:14.871519,CUST8100,success,2026-04-01,18,Wednesday,April
+TXN202604190383,Hospital Complex,balance_check,0.0,2026-03-21 03:31:14.871532,CUST8402,success,2026-03-21,3,Saturday,March
+TXN202604190384,Shopping Mall North,withdrawal,101.18,2026-04-09 16:04:14.871548,CUST4857,success,2026-04-09,16,Thursday,April
+TXN202604190385,Residential Area East,balance_check,0.0,2026-04-16 18:40:14.871564,CUST9894,success,2026-04-16,18,Thursday,April
+TXN202604190386,Airport Terminal,withdrawal,171.85,2026-04-17 06:27:14.871577,CUST5310,success,2026-04-17,6,Friday,April
+TXN202604190387,Business District,transfer,435.68,2026-03-20 02:37:14.871594,CUST6613,success,2026-03-20,2,Friday,March
+TXN202604190388,Industrial Zone,withdrawal,486.51,2026-04-16 18:13:14.871609,CUST2220,success,2026-04-16,18,Thursday,April
+TXN202604190389,Train Station Central,withdrawal,212.84,2026-04-09 22:31:14.871625,CUST4432,success,2026-04-09,22,Thursday,April
+TXN202604190390,Downtown Branch,withdrawal,291.29,2026-04-03 22:44:14.871642,CUST8380,success,2026-04-03,22,Friday,April
+TXN202604190391,Downtown Branch,transfer,561.96,2026-04-15 15:10:14.871658,CUST4344,success,2026-04-15,15,Wednesday,April
+TXN202604190392,Business District,balance_check,0.0,2026-04-13 22:27:14.871675,CUST3819,success,2026-04-13,22,Monday,April
+TXN202604190393,Shopping Mall South,deposit,1791.99,2026-03-25 02:41:14.871688,CUST9714,success,2026-03-25,2,Wednesday,March
+TXN202604190394,University Campus Science,balance_check,0.0,2026-04-01 23:26:14.871702,CUST5415,success,2026-04-01,23,Wednesday,April
+TXN202604190395,Shopping Mall South,withdrawal,194.78,2026-03-24 15:47:14.871715,CUST9678,success,2026-03-24,15,Tuesday,March
+TXN202604190396,Shopping Mall South,balance_check,0.0,2026-03-19 17:57:14.871732,CUST5823,success,2026-03-19,17,Thursday,March
+TXN202604190397,Shopping Mall North,withdrawal,386.48,2026-04-12 03:04:14.871745,CUST8187,success,2026-04-12,3,Sunday,April
+TXN202604190398,University Campus Main,withdrawal,434.07,2026-04-06 16:33:14.871761,CUST9259,success,2026-04-06,16,Monday,April
+TXN202604190399,Residential Area West,withdrawal,408.06,2026-04-03 23:16:14.871777,CUST5153,success,2026-04-03,23,Friday,April
+TXN202604190400,Downtown Branch,withdrawal,285.04,2026-03-23 05:09:14.871793,CUST2798,success,2026-03-23,5,Monday,March
+TXN202604190401,Hospital Complex,balance_check,0.0,2026-04-09 23:53:14.871809,CUST4948,success,2026-04-09,23,Thursday,April
+TXN202604190402,Residential Area West,transfer,898.82,2026-03-23 13:05:14.871823,CUST8560,success,2026-03-23,13,Monday,March
+TXN202604190403,Shopping Mall South,withdrawal,420.32,2026-04-11 19:02:14.871838,CUST2875,success,2026-04-11,19,Saturday,April
+TXN202604190404,Tourist Center,withdrawal,329.98,2026-03-19 18:17:14.871854,CUST9332,success,2026-03-19,18,Thursday,March
+TXN202604190405,Shopping Mall South,withdrawal,39.53,2026-03-20 22:13:14.871882,CUST6453,success,2026-03-20,22,Friday,March
+TXN202604190406,Shopping Mall North,transfer,327.31,2026-03-21 08:41:14.871907,CUST4149,success,2026-03-21,8,Saturday,March
+TXN202604190407,Tourist Center,withdrawal,186.43,2026-03-29 21:43:14.871923,CUST1088,success,2026-03-29,21,Sunday,March
+TXN202604190408,Downtown Branch,balance_check,0.0,2026-04-18 23:58:14.871939,CUST7105,success,2026-04-18,23,Saturday,April
+TXN202604190409,Residential Area West,deposit,491.51,2026-04-04 16:47:14.871952,CUST6772,failed,2026-04-04,16,Saturday,April
+TXN202604190410,Residential Area East,deposit,723.58,2026-03-21 02:43:14.871967,CUST9095,success,2026-03-21,2,Saturday,March
+TXN202604190411,Tourist Center,withdrawal,213.6,2026-04-16 23:42:14.871985,CUST7108,success,2026-04-16,23,Thursday,April
+TXN202604190412,Downtown Branch,withdrawal,549.35,2026-04-06 23:15:14.872002,CUST2007,success,2026-04-06,23,Monday,April
+TXN202604190413,Train Station Central,withdrawal,39.4,2026-04-15 03:30:14.872018,CUST4694,success,2026-04-15,3,Wednesday,April
+TXN202604190414,Residential Area West,withdrawal,106.22,2026-03-21 03:37:14.872035,CUST7347,success,2026-03-21,3,Saturday,March
+TXN202604190415,Residential Area West,withdrawal,87.21,2026-04-02 03:17:14.872051,CUST3200,success,2026-04-02,3,Thursday,April
+TXN202604190416,Shopping Mall North,balance_check,0.0,2026-03-24 05:52:14.872068,CUST9524,success,2026-03-24,5,Tuesday,March
+TXN202604190417,Downtown Branch,withdrawal,183.85,2026-03-25 23:50:14.872081,CUST2055,success,2026-03-25,23,Wednesday,March
+TXN202604190418,Hospital Complex,withdrawal,91.52,2026-04-16 23:03:14.872097,CUST2828,success,2026-04-16,23,Thursday,April
+TXN202604190419,University Campus Science,withdrawal,62.21,2026-03-31 21:15:14.872114,CUST3289,success,2026-03-31,21,Tuesday,March
+TXN202604190420,Airport Terminal,withdrawal,490.98,2026-03-26 22:21:14.872130,CUST9707,success,2026-03-26,22,Thursday,March
+TXN202604190421,Shopping Mall South,withdrawal,272.45,2026-04-02 05:19:14.872147,CUST5232,success,2026-04-02,5,Thursday,April
+TXN202604190422,University Campus Main,withdrawal,94.63,2026-03-30 22:55:14.872163,CUST8213,success,2026-03-30,22,Monday,March
+TXN202604190423,Shopping Mall South,withdrawal,321.93,2026-04-09 17:36:14.872181,CUST6297,success,2026-04-09,17,Thursday,April
+TXN202604190424,University Campus Science,withdrawal,290.76,2026-04-07 17:45:14.872198,CUST4157,success,2026-04-07,17,Tuesday,April
+TXN202604190425,Residential Area East,deposit,397.93,2026-04-08 03:12:14.872214,CUST6595,success,2026-04-08,3,Wednesday,April
+TXN202604190426,Tourist Center,withdrawal,286.77,2026-03-31 18:17:14.872228,CUST1406,success,2026-03-31,18,Tuesday,March
+TXN202604190427,Shopping Mall South,balance_check,0.0,2026-03-22 10:37:14.872245,CUST6102,success,2026-03-22,10,Sunday,March
+TXN202604190428,Residential Area West,withdrawal,20.14,2026-03-22 11:40:14.872258,CUST1898,failed,2026-03-22,11,Sunday,March
+TXN202604190429,Business District,balance_check,0.0,2026-03-29 09:24:14.872275,CUST4056,success,2026-03-29,9,Sunday,March
+TXN202604190430,University Campus Science,withdrawal,98.14,2026-04-06 15:19:14.872290,CUST9128,success,2026-04-06,15,Monday,April
+TXN202604190431,Hospital Complex,balance_check,0.0,2026-04-17 04:59:14.872307,CUST2854,success,2026-04-17,4,Friday,April
+TXN202604190432,Shopping Mall South,balance_check,0.0,2026-04-03 19:29:14.872320,CUST6608,success,2026-04-03,19,Friday,April
+TXN202604190433,Hospital Complex,withdrawal,297.17,2026-04-08 09:59:14.872332,CUST8662,success,2026-04-08,9,Wednesday,April
+TXN202604190434,Airport Terminal,deposit,1859.69,2026-04-05 02:35:14.872349,CUST4251,success,2026-04-05,2,Sunday,April
+TXN202604190435,Hospital Complex,balance_check,0.0,2026-04-19 03:35:14.872364,CUST4257,success,2026-04-19,3,Sunday,April
+TXN202604190436,Business District,withdrawal,106.28,2026-04-18 09:59:14.872377,CUST8313,success,2026-04-18,9,Saturday,April
+TXN202604190437,Hospital Complex,withdrawal,91.45,2026-04-16 17:51:14.872393,CUST4755,success,2026-04-16,17,Thursday,April
+TXN202604190438,Downtown Branch,withdrawal,194.88,2026-04-07 16:17:14.872409,CUST6139,success,2026-04-07,16,Tuesday,April
+TXN202604190439,Residential Area East,withdrawal,21.19,2026-03-27 18:23:14.872426,CUST9267,success,2026-03-27,18,Friday,March
+TXN202604190440,Shopping Mall South,deposit,239.92,2026-04-09 02:52:14.872444,CUST4738,success,2026-04-09,2,Thursday,April
+TXN202604190441,Shopping Mall North,balance_check,0.0,2026-03-29 05:26:14.872459,CUST7472,success,2026-03-29,5,Sunday,March
+TXN202604190442,Residential Area East,withdrawal,279.52,2026-04-05 03:53:14.872473,CUST4025,success,2026-04-05,3,Sunday,April
+TXN202604190443,Hospital Complex,deposit,390.95,2026-04-16 18:19:14.872493,CUST1100,success,2026-04-16,18,Thursday,April
+TXN202604190444,Downtown Branch,withdrawal,91.22,2026-04-10 08:12:14.872508,CUST4230,success,2026-04-10,8,Friday,April
+TXN202604190445,Hospital Complex,withdrawal,296.98,2026-04-19 03:51:14.872524,CUST7458,success,2026-04-19,3,Sunday,April
+TXN202604190446,Airport Terminal,withdrawal,293.09,2026-03-29 18:48:14.872541,CUST2446,success,2026-03-29,18,Sunday,March
+TXN202604190447,Downtown Branch,withdrawal,42.83,2026-04-09 15:55:14.872558,CUST5211,success,2026-04-09,15,Thursday,April
+TXN202604190448,Business District,withdrawal,276.81,2026-03-26 05:33:14.872577,CUST8418,success,2026-03-26,5,Thursday,March
+TXN202604190449,Sports Stadium,transfer,805.32,2026-04-18 16:34:14.872595,CUST3235,success,2026-04-18,16,Saturday,April
+TXN202604190450,Hospital Complex,withdrawal,112.62,2026-04-05 16:07:14.872780,CUST8147,success,2026-04-05,16,Sunday,April
+TXN202604190451,Business District,withdrawal,301.69,2026-04-17 23:34:14.872810,CUST1425,success,2026-04-17,23,Friday,April
+TXN202604190452,Train Station Central,deposit,1975.95,2026-03-23 19:42:14.872829,CUST1074,failed,2026-03-23,19,Monday,March
+TXN202604190453,Airport Terminal,withdrawal,310.64,2026-04-02 01:15:14.872846,CUST5372,success,2026-04-02,1,Thursday,April
+TXN202604190454,Tourist Center,balance_check,0.0,2026-03-28 18:58:14.872862,CUST4430,failed,2026-03-28,18,Saturday,March
+TXN202604190455,Hospital Complex,withdrawal,469.24,2026-04-07 18:59:14.872876,CUST5356,success,2026-04-07,18,Tuesday,April
+TXN202604190456,Airport Terminal,withdrawal,157.93,2026-04-13 17:33:14.872892,CUST9943,success,2026-04-13,17,Monday,April
+TXN202604190457,Downtown Branch,withdrawal,98.89,2026-04-08 15:11:14.872908,CUST3354,success,2026-04-08,15,Wednesday,April
+TXN202604190458,Downtown Branch,withdrawal,106.1,2026-03-27 02:08:14.872929,CUST1627,success,2026-03-27,2,Friday,March
+TXN202604190459,Shopping Mall South,transfer,313.44,2026-04-17 07:28:14.872946,CUST5769,success,2026-04-17,7,Friday,April
+TXN202604190460,Downtown Branch,withdrawal,157.19,2026-03-25 18:33:14.872960,CUST6252,success,2026-03-25,18,Wednesday,March
+TXN202604190461,Hospital Complex,withdrawal,39.69,2026-03-30 23:37:14.872977,CUST1343,success,2026-03-30,23,Monday,March
+TXN202604190462,Shopping Mall North,withdrawal,106.38,2026-04-09 15:49:14.873004,CUST1579,success,2026-04-09,15,Thursday,April
+TXN202604190463,Shopping Mall South,withdrawal,21.62,2026-03-29 22:44:14.873021,CUST2425,success,2026-03-29,22,Sunday,March
+TXN202604190464,Hospital Complex,balance_check,0.0,2026-03-30 23:14:14.873037,CUST5225,success,2026-03-30,23,Monday,March
+TXN202604190465,Shopping Mall South,withdrawal,43.95,2026-04-03 22:11:14.873050,CUST6472,success,2026-04-03,22,Friday,April
+TXN202604190466,Downtown Branch,deposit,1256.55,2026-03-29 03:18:14.873066,CUST7031,success,2026-03-29,3,Sunday,March
+TXN202604190467,Train Station Central,withdrawal,167.6,2026-04-11 18:38:14.873081,CUST3452,success,2026-04-11,18,Saturday,April
+TXN202604190468,Airport Terminal,withdrawal,119.59,2026-04-11 23:28:14.873102,CUST5404,success,2026-04-11,23,Saturday,April
+TXN202604190469,Business District,deposit,1475.05,2026-04-09 22:22:14.873118,CUST6451,success,2026-04-09,22,Thursday,April
+TXN202604190470,University Campus Main,withdrawal,97.18,2026-04-18 02:19:14.873133,CUST7905,failed,2026-04-18,2,Saturday,April
+TXN202604190471,Sports Stadium,withdrawal,80.67,2026-04-15 18:54:14.873155,CUST7372,success,2026-04-15,18,Wednesday,April
+TXN202604190472,Airport Terminal,deposit,326.01,2026-03-30 02:17:14.873197,CUST2591,success,2026-03-30,2,Monday,March
+TXN202604190473,Business District,withdrawal,19.01,2026-04-12 22:37:14.873238,CUST5793,success,2026-04-12,22,Sunday,April
+TXN202604190474,Shopping Mall South,withdrawal,136.22,2026-04-12 07:06:14.873260,CUST6549,success,2026-04-12,7,Sunday,April
+TXN202604190475,University Campus Main,withdrawal,94.95,2026-04-04 08:23:14.873286,CUST4276,success,2026-04-04,8,Saturday,April
+TXN202604190476,Downtown Branch,withdrawal,518.99,2026-04-11 17:59:14.873308,CUST1042,success,2026-04-11,17,Saturday,April
+TXN202604190477,Shopping Mall South,withdrawal,213.99,2026-03-22 01:01:14.873325,CUST9541,failed,2026-03-22,1,Sunday,March
+TXN202604190478,Residential Area West,balance_check,0.0,2026-04-07 17:00:14.873341,CUST4797,success,2026-04-07,17,Tuesday,April
+TXN202604190479,University Campus Main,withdrawal,40.99,2026-04-09 22:29:14.873354,CUST6771,success,2026-04-09,22,Thursday,April
+TXN202604190480,Residential Area East,withdrawal,196.08,2026-04-03 18:35:14.873370,CUST8936,success,2026-04-03,18,Friday,April
+TXN202604190481,University Campus Science,withdrawal,286.52,2026-04-03 03:40:14.873386,CUST6138,success,2026-04-03,3,Friday,April
+TXN202604190482,Residential Area West,balance_check,0.0,2026-04-12 17:44:14.873402,CUST4393,success,2026-04-12,17,Sunday,April
+TXN202604190483,Shopping Mall North,balance_check,0.0,2026-03-31 05:05:14.873420,CUST3943,success,2026-03-31,5,Tuesday,March
+TXN202604190484,Residential Area West,withdrawal,363.69,2026-03-27 15:08:14.873433,CUST1258,failed,2026-03-27,15,Friday,March
+TXN202604190485,Shopping Mall North,withdrawal,85.69,2026-04-13 23:49:14.873450,CUST7348,success,2026-04-13,23,Monday,April
+TXN202604190486,Airport Terminal,withdrawal,199.77,2026-04-10 15:06:14.873465,CUST7929,success,2026-04-10,15,Friday,April
+TXN202604190487,Airport Terminal,withdrawal,99.6,2026-04-03 18:22:14.873484,CUST4387,success,2026-04-03,18,Friday,April
+TXN202604190488,Downtown Branch,withdrawal,193.79,2026-04-16 16:18:14.873501,CUST6344,success,2026-04-16,16,Thursday,April
+TXN202604190489,Downtown Branch,balance_check,0.0,2026-03-24 00:47:14.873517,CUST1066,success,2026-03-24,0,Tuesday,March
+TXN202604190490,Hospital Complex,withdrawal,207.47,2026-04-18 20:00:14.873531,CUST6628,failed,2026-04-18,20,Saturday,April
+TXN202604190491,Tourist Center,withdrawal,281.04,2026-03-20 18:36:14.873547,CUST2630,success,2026-03-20,18,Friday,March
+TXN202604190492,Shopping Mall South,withdrawal,110.34,2026-03-31 13:25:14.873564,CUST7968,success,2026-03-31,13,Tuesday,March
+TXN202604190493,Downtown Branch,balance_check,0.0,2026-04-03 03:24:14.873580,CUST5461,success,2026-04-03,3,Friday,April
+TXN202604190494,Shopping Mall South,withdrawal,403.3,2026-04-13 16:51:14.873593,CUST2094,success,2026-04-13,16,Monday,April
+TXN202604190495,Hospital Complex,withdrawal,213.67,2026-03-30 03:35:14.873609,CUST9493,success,2026-03-30,3,Monday,March
+TXN202604190496,Tourist Center,withdrawal,210.86,2026-03-31 12:40:14.873626,CUST2094,success,2026-03-31,12,Tuesday,March
+TXN202604190497,Residential Area East,withdrawal,196.3,2026-03-23 23:16:14.873641,CUST5360,success,2026-03-23,23,Monday,March
+TXN202604190498,Residential Area East,transfer,288.64,2026-04-11 18:17:14.873657,CUST8976,success,2026-04-11,18,Saturday,April
+TXN202604190499,Shopping Mall South,balance_check,0.0,2026-04-13 17:34:14.873672,CUST6703,success,2026-04-13,17,Monday,April
+TXN202604190500,Residential Area East,withdrawal,194.38,2026-03-21 19:00:14.873685,CUST8365,success,2026-03-21,19,Saturday,March
+TXN202604190501,Shopping Mall South,withdrawal,43.59,2026-03-31 08:24:14.873704,CUST7007,success,2026-03-31,8,Tuesday,March
+TXN202604190502,Residential Area West,withdrawal,428.32,2026-03-31 15:52:14.873720,CUST5936,success,2026-03-31,15,Tuesday,March
+TXN202604190503,Downtown Branch,transfer,856.39,2026-03-22 17:57:14.873737,CUST8626,success,2026-03-22,17,Sunday,March
+TXN202604190504,University Campus Main,withdrawal,464.36,2026-03-31 22:29:14.873752,CUST5440,success,2026-03-31,22,Tuesday,March
+TXN202604190505,Business District,withdrawal,315.9,2026-04-14 00:00:14.873768,CUST1260,success,2026-04-14,0,Tuesday,April
+TXN202604190506,Residential Area West,withdrawal,192.39,2026-03-24 23:08:14.873785,CUST4532,success,2026-03-24,23,Tuesday,March
+TXN202604190507,Airport Terminal,withdrawal,152.28,2026-03-24 20:19:14.873803,CUST6525,success,2026-03-24,20,Tuesday,March
+TXN202604190508,Train Station Central,balance_check,0.0,2026-04-09 15:55:14.873819,CUST3853,success,2026-04-09,15,Thursday,April
+TXN202604190509,Shopping Mall South,withdrawal,39.54,2026-04-13 13:34:14.873832,CUST2991,success,2026-04-13,13,Monday,April
+TXN202604190510,Shopping Mall North,withdrawal,202.34,2026-04-17 17:53:14.873848,CUST8232,success,2026-04-17,17,Friday,April
+TXN202604190511,Shopping Mall North,withdrawal,324.36,2026-03-25 05:29:14.873864,CUST9017,success,2026-03-25,5,Wednesday,March
+TXN202604190512,Downtown Branch,withdrawal,173.04,2026-04-15 23:21:14.873880,CUST9897,success,2026-04-15,23,Wednesday,April
+TXN202604190513,Residential Area East,withdrawal,100.15,2026-03-24 21:52:14.873896,CUST2168,success,2026-03-24,21,Tuesday,March
+TXN202604190514,Shopping Mall North,withdrawal,388.89,2026-03-20 16:15:14.873912,CUST7356,success,2026-03-20,16,Friday,March
+TXN202604190515,Business District,balance_check,0.0,2026-04-10 23:10:14.873929,CUST1361,failed,2026-04-10,23,Friday,April
+TXN202604190516,Shopping Mall South,transfer,934.04,2026-04-12 23:15:14.873941,CUST3584,success,2026-04-12,23,Sunday,April
+TXN202604190517,Train Station Central,withdrawal,207.73,2026-03-22 23:07:14.873956,CUST4904,success,2026-03-22,23,Sunday,March
+TXN202604190518,University Campus Science,withdrawal,77.04,2026-04-11 02:28:14.873972,CUST4427,success,2026-04-11,2,Saturday,April
+TXN202604190519,University Campus Main,balance_check,0.0,2026-04-16 18:48:14.873988,CUST2224,success,2026-04-16,18,Thursday,April
+TXN202604190520,Shopping Mall North,withdrawal,191.28,2026-04-06 22:48:14.874001,CUST6191,success,2026-04-06,22,Monday,April
+TXN202604190521,Train Station Central,balance_check,0.0,2026-04-08 17:09:14.874020,CUST3445,success,2026-04-08,17,Wednesday,April
+TXN202604190522,Tourist Center,withdrawal,36.6,2026-04-12 06:42:14.874035,CUST3053,success,2026-04-12,6,Sunday,April
+TXN202604190523,Shopping Mall South,balance_check,0.0,2026-04-10 08:50:14.874051,CUST5496,success,2026-04-10,8,Friday,April
+TXN202604190524,Hospital Complex,deposit,243.75,2026-04-06 03:31:14.874064,CUST2622,success,2026-04-06,3,Monday,April
+TXN202604190525,Industrial Zone,withdrawal,390.71,2026-03-30 02:44:14.874079,CUST8267,success,2026-03-30,2,Monday,March
+TXN202604190526,Business District,withdrawal,108.71,2026-04-07 08:44:14.874098,CUST8408,success,2026-04-07,8,Tuesday,April
+TXN202604190527,Residential Area East,withdrawal,273.45,2026-04-06 02:33:14.874115,CUST2841,success,2026-04-06,2,Monday,April
+TXN202604190528,Residential Area East,withdrawal,39.65,2026-03-23 02:38:14.874132,CUST6904,success,2026-03-23,2,Monday,March
+TXN202604190529,Residential Area East,balance_check,0.0,2026-03-29 17:40:14.874148,CUST2267,success,2026-03-29,17,Sunday,March
+TXN202604190530,Shopping Mall North,deposit,1446.28,2026-04-19 04:10:14.874161,CUST1208,success,2026-04-19,4,Sunday,April
+TXN202604190531,Downtown Branch,withdrawal,325.39,2026-03-28 12:40:14.874177,CUST8833,success,2026-03-28,12,Saturday,March
+TXN202604190532,Train Station Central,withdrawal,199.3,2026-03-21 16:38:14.874194,CUST4448,success,2026-03-21,16,Saturday,March
+TXN202604190533,Shopping Mall South,withdrawal,127.73,2026-04-08 02:05:14.874212,CUST2682,success,2026-04-08,2,Wednesday,April
+TXN202604190534,Hospital Complex,transfer,398.37,2026-04-15 02:08:14.874234,CUST3847,success,2026-04-15,2,Wednesday,April
+TXN202604190535,Airport Terminal,withdrawal,96.0,2026-03-28 16:43:14.874252,CUST3549,success,2026-03-28,16,Saturday,March
+TXN202604190536,Shopping Mall South,withdrawal,361.99,2026-04-12 17:24:14.874273,CUST3095,pending,2026-04-12,17,Sunday,April
+TXN202604190537,Shopping Mall North,withdrawal,303.61,2026-04-03 18:27:14.874289,CUST1888,success,2026-04-03,18,Friday,April
+TXN202604190538,Shopping Mall North,withdrawal,409.12,2026-04-17 15:24:14.874305,CUST2395,success,2026-04-17,15,Friday,April
+TXN202604190539,Business District,withdrawal,207.49,2026-03-29 06:40:14.874321,CUST7994,success,2026-03-29,6,Sunday,March
+TXN202604190540,Shopping Mall North,deposit,1543.6,2026-04-17 19:24:14.874340,CUST4552,success,2026-04-17,19,Friday,April
+TXN202604190541,Residential Area East,withdrawal,96.4,2026-03-30 12:49:14.874355,CUST7973,failed,2026-03-30,12,Monday,March
+TXN202604190542,Downtown Branch,withdrawal,375.56,2026-04-19 03:49:14.874371,CUST8798,success,2026-04-19,3,Sunday,April
+TXN202604190543,Shopping Mall North,balance_check,0.0,2026-03-27 16:00:14.874387,CUST9902,success,2026-03-27,16,Friday,March
+TXN202604190544,Residential Area East,deposit,1496.05,2026-04-17 17:33:14.874400,CUST3118,success,2026-04-17,17,Friday,April
+TXN202604190545,Industrial Zone,balance_check,0.0,2026-04-10 19:03:14.874417,CUST1942,failed,2026-04-10,19,Friday,April
+TXN202604190546,Business District,withdrawal,174.28,2026-04-16 02:49:14.874430,CUST4357,success,2026-04-16,2,Thursday,April
+TXN202604190547,Airport Terminal,withdrawal,20.99,2026-04-15 11:59:14.874447,CUST2693,success,2026-04-15,11,Wednesday,April
+TXN202604190548,Business District,withdrawal,503.45,2026-03-30 01:50:14.874463,CUST9309,success,2026-03-30,1,Monday,March
+TXN202604190549,Hospital Complex,withdrawal,323.07,2026-04-16 03:36:14.874478,CUST4027,success,2026-04-16,3,Thursday,April
+TXN202604190550,Shopping Mall North,deposit,953.55,2026-04-02 04:00:14.874494,CUST7394,success,2026-04-02,4,Thursday,April
+TXN202604190551,Shopping Mall North,balance_check,0.0,2026-03-28 19:03:14.874509,CUST5798,success,2026-03-28,19,Saturday,March
+TXN202604190552,Shopping Mall North,balance_check,0.0,2026-03-23 00:01:14.874522,CUST4912,failed,2026-03-23,0,Monday,March
+TXN202604190553,Airport Terminal,withdrawal,415.37,2026-03-27 23:42:14.874535,CUST8149,success,2026-03-27,23,Friday,March
+TXN202604190554,Downtown Branch,balance_check,0.0,2026-03-25 02:30:14.874552,CUST8782,success,2026-03-25,2,Wednesday,March
+TXN202604190555,Residential Area West,balance_check,0.0,2026-04-18 03:44:14.874565,CUST7762,success,2026-04-18,3,Saturday,April
+TXN202604190556,Residential Area East,withdrawal,205.26,2026-03-30 02:13:14.874578,CUST3661,success,2026-03-30,2,Monday,March
+TXN202604190557,Downtown Branch,deposit,208.3,2026-04-02 01:48:14.874595,CUST6946,success,2026-04-02,1,Thursday,April
+TXN202604190558,Residential Area East,transfer,420.65,2026-03-26 18:56:14.874609,CUST6792,failed,2026-03-26,18,Thursday,March
+TXN202604190559,Shopping Mall North,withdrawal,167.57,2026-03-27 15:27:14.874623,CUST7792,success,2026-03-27,15,Friday,March
+TXN202604190560,Residential Area East,withdrawal,482.41,2026-04-08 03:08:14.874639,CUST4843,success,2026-04-08,3,Wednesday,April
+TXN202604190561,Downtown Branch,balance_check,0.0,2026-04-12 16:06:14.874659,CUST9583,success,2026-04-12,16,Sunday,April
+TXN202604190562,Shopping Mall South,transfer,736.64,2026-03-20 03:51:14.874673,CUST4608,success,2026-03-20,3,Friday,March
+TXN202604190563,Airport Terminal,deposit,1846.35,2026-03-22 20:55:14.874688,CUST5838,success,2026-03-22,20,Sunday,March
+TXN202604190564,Residential Area West,withdrawal,185.68,2026-04-06 22:45:14.874702,CUST4934,success,2026-04-06,22,Monday,April
+TXN202604190565,Downtown Branch,withdrawal,460.28,2026-03-25 09:19:14.874718,CUST5473,success,2026-03-25,9,Wednesday,March
+TXN202604190566,Industrial Zone,withdrawal,273.0,2026-04-06 22:49:14.874737,CUST5245,success,2026-04-06,22,Monday,April
+TXN202604190567,Business District,withdrawal,510.46,2026-04-01 00:01:14.874753,CUST4555,success,2026-04-01,0,Wednesday,April
+TXN202604190568,Airport Terminal,withdrawal,196.98,2026-03-25 14:47:14.874768,CUST4573,success,2026-03-25,14,Wednesday,March
+TXN202604190569,Hospital Complex,withdrawal,42.97,2026-04-09 03:18:14.874785,CUST3450,success,2026-04-09,3,Thursday,April
+TXN202604190570,Shopping Mall North,deposit,466.19,2026-03-19 17:05:14.874800,CUST4527,success,2026-03-19,17,Thursday,March
+TXN202604190571,Sports Stadium,withdrawal,190.63,2026-04-01 03:05:14.874815,CUST6007,success,2026-04-01,3,Wednesday,April
+TXN202604190572,Business District,withdrawal,128.26,2026-04-17 17:11:14.874832,CUST1491,success,2026-04-17,17,Friday,April
+TXN202604190573,Downtown Branch,balance_check,0.0,2026-04-17 02:47:14.874848,CUST1499,success,2026-04-17,2,Friday,April
+TXN202604190574,Residential Area West,balance_check,0.0,2026-04-18 05:50:14.874861,CUST5895,success,2026-04-18,5,Saturday,April
+TXN202604190575,Airport Terminal,withdrawal,19.03,2026-04-07 16:14:14.874874,CUST6356,success,2026-04-07,16,Tuesday,April
+TXN202604190576,Shopping Mall South,withdrawal,200.01,2026-04-15 18:26:14.874890,CUST7346,success,2026-04-15,18,Wednesday,April
+TXN202604190577,Business District,transfer,378.65,2026-03-28 03:11:14.874906,CUST5616,success,2026-03-28,3,Saturday,March
+TXN202604190578,Industrial Zone,balance_check,0.0,2026-04-17 23:15:14.874920,CUST1446,success,2026-04-17,23,Friday,April
+TXN202604190579,Industrial Zone,withdrawal,42.67,2026-04-08 17:54:14.874936,CUST9137,failed,2026-04-08,17,Wednesday,April
+TXN202604190580,Downtown Branch,withdrawal,183.24,2026-03-31 10:31:14.874952,CUST4362,success,2026-03-31,10,Tuesday,March
+TXN202604190581,Hospital Complex,withdrawal,424.89,2026-04-05 03:28:14.874968,CUST2638,success,2026-04-05,3,Sunday,April
+TXN202604190582,Shopping Mall South,withdrawal,207.29,2026-03-25 05:26:14.874984,CUST8943,success,2026-03-25,5,Wednesday,March
+TXN202604190583,University Campus Main,deposit,495.04,2026-04-10 05:39:14.875000,CUST8020,success,2026-04-10,5,Friday,April
+TXN202604190584,Hospital Complex,withdrawal,386.86,2026-04-07 22:08:14.875014,CUST9771,success,2026-04-07,22,Tuesday,April
+TXN202604190585,Industrial Zone,balance_check,0.0,2026-04-15 02:31:14.875030,CUST6814,success,2026-04-15,2,Wednesday,April
+TXN202604190586,Shopping Mall North,withdrawal,197.82,2026-03-30 15:37:14.875046,CUST4665,success,2026-03-30,15,Monday,March
+TXN202604190587,Business District,balance_check,0.0,2026-04-02 03:59:14.875062,CUST3776,success,2026-04-02,3,Thursday,April
+TXN202604190588,Downtown Branch,withdrawal,390.11,2026-04-16 23:33:14.875075,CUST1023,success,2026-04-16,23,Thursday,April
+TXN202604190589,Sports Stadium,balance_check,0.0,2026-03-28 05:11:14.875091,CUST4738,success,2026-03-28,5,Saturday,March
+TXN202604190590,Hospital Complex,transfer,852.09,2026-03-31 01:48:14.875104,CUST3441,success,2026-03-31,1,Tuesday,March
+TXN202604190591,Residential Area West,withdrawal,390.16,2026-04-03 16:35:14.875119,CUST2100,success,2026-04-03,16,Friday,April
+TXN202604190592,Sports Stadium,balance_check,0.0,2026-04-15 02:41:14.875135,CUST1687,success,2026-04-15,2,Wednesday,April
+TXN202604190593,Residential Area East,withdrawal,284.68,2026-03-27 23:15:14.875148,CUST9400,success,2026-03-27,23,Friday,March
+TXN202604190594,Hospital Complex,balance_check,0.0,2026-04-12 03:00:14.875165,CUST3424,failed,2026-04-12,3,Sunday,April
+TXN202604190595,Residential Area East,withdrawal,96.0,2026-03-20 18:09:14.875179,CUST8850,success,2026-03-20,18,Friday,March
+TXN202604190596,Shopping Mall North,deposit,606.01,2026-04-12 06:59:14.875194,CUST3488,success,2026-04-12,6,Sunday,April
+TXN202604190597,Downtown Branch,withdrawal,285.89,2026-04-15 13:50:14.875209,CUST6597,pending,2026-04-15,13,Wednesday,April
+TXN202604190598,Shopping Mall North,balance_check,0.0,2026-04-14 18:44:14.875237,CUST2475,success,2026-04-14,18,Tuesday,April
+TXN202604190599,University Campus Main,withdrawal,329.23,2026-03-22 00:04:14.875253,CUST7211,success,2026-03-22,0,Sunday,March
+TXN202604190600,Shopping Mall South,withdrawal,80.61,2026-04-03 18:25:14.875270,CUST2194,success,2026-04-03,18,Friday,April
+TXN202604190601,Shopping Mall South,withdrawal,184.72,2026-04-16 21:54:14.875286,CUST7782,success,2026-04-16,21,Thursday,April
+TXN202604190602,Hospital Complex,withdrawal,218.75,2026-03-31 18:25:14.875303,CUST3385,success,2026-03-31,18,Tuesday,March
+TXN202604190603,Business District,withdrawal,319.55,2026-04-17 22:08:14.875319,CUST9410,success,2026-04-17,22,Friday,April
+TXN202604190604,Downtown Branch,deposit,583.09,2026-04-17 15:44:14.875336,CUST9074,success,2026-04-17,15,Friday,April
+TXN202604190605,Hospital Complex,withdrawal,102.4,2026-04-17 03:33:14.875350,CUST4389,success,2026-04-17,3,Friday,April
+TXN202604190606,Downtown Branch,withdrawal,417.35,2026-04-15 17:33:14.875366,CUST7104,success,2026-04-15,17,Wednesday,April
+TXN202604190607,Airport Terminal,withdrawal,101.97,2026-04-06 11:39:14.875386,CUST2181,success,2026-04-06,11,Monday,April
+TXN202604190608,Hospital Complex,deposit,1412.28,2026-03-25 17:04:14.875402,CUST7729,success,2026-03-25,17,Wednesday,March
+TXN202604190609,Business District,deposit,843.4,2026-03-28 03:27:14.875418,CUST5820,success,2026-03-28,3,Saturday,March
+TXN202604190610,Shopping Mall South,withdrawal,294.76,2026-03-19 17:17:14.875432,CUST6358,success,2026-03-19,17,Thursday,March
+TXN202604190611,University Campus Science,withdrawal,37.51,2026-03-25 18:28:14.875448,CUST6141,success,2026-03-25,18,Wednesday,March
+TXN202604190612,Shopping Mall North,withdrawal,374.22,2026-04-01 08:56:14.875464,CUST1112,success,2026-04-01,8,Wednesday,April
+TXN202604190613,Hospital Complex,withdrawal,297.42,2026-04-17 09:00:14.875480,CUST2287,success,2026-04-17,9,Friday,April
+TXN202604190614,Train Station Central,withdrawal,201.83,2026-03-31 23:32:14.875495,CUST8038,success,2026-03-31,23,Tuesday,March
+TXN202604190615,Shopping Mall South,withdrawal,273.5,2026-04-17 02:13:14.875511,CUST6332,success,2026-04-17,2,Friday,April
+TXN202604190616,Residential Area West,withdrawal,94.41,2026-04-12 22:43:14.875527,CUST9977,success,2026-04-12,22,Sunday,April
+TXN202604190617,Tourist Center,balance_check,0.0,2026-03-28 16:39:14.875543,CUST3747,success,2026-03-28,16,Saturday,March
+TXN202604190618,Shopping Mall North,withdrawal,187.03,2026-04-11 18:47:14.875558,CUST3949,success,2026-04-11,18,Saturday,April
+TXN202604190619,Downtown Branch,deposit,1879.69,2026-04-17 02:45:14.875575,CUST5864,success,2026-04-17,2,Friday,April
+TXN202604190620,Residential Area East,withdrawal,133.54,2026-03-30 02:32:14.875589,CUST7474,success,2026-03-30,2,Monday,March
+TXN202604190621,Tourist Center,withdrawal,185.58,2026-03-27 13:06:14.875605,CUST8195,success,2026-03-27,13,Friday,March
+TXN202604190622,Hospital Complex,balance_check,0.0,2026-04-14 18:44:14.875622,CUST8519,success,2026-04-14,18,Tuesday,April
+TXN202604190623,Downtown Branch,withdrawal,37.86,2026-03-24 20:56:14.875637,CUST4306,success,2026-03-24,20,Tuesday,March
+TXN202604190624,Airport Terminal,withdrawal,190.39,2026-04-13 02:46:14.875654,CUST7507,success,2026-04-13,2,Monday,April
+TXN202604190625,Downtown Branch,withdrawal,150.89,2026-03-26 22:29:14.875670,CUST7927,success,2026-03-26,22,Thursday,March
+TXN202604190626,Business District,withdrawal,19.78,2026-03-21 05:54:14.875686,CUST1712,success,2026-03-21,5,Saturday,March
+TXN202604190627,Train Station Central,balance_check,0.0,2026-04-01 22:17:14.875704,CUST8730,failed,2026-04-01,22,Wednesday,April
+TXN202604190628,Business District,withdrawal,20.58,2026-04-01 05:09:14.875788,CUST7404,success,2026-04-01,5,Wednesday,April
+TXN202604190629,Business District,deposit,707.01,2026-04-13 15:47:14.875805,CUST6671,success,2026-04-13,15,Monday,April
+TXN202604190630,University Campus Main,withdrawal,54.26,2026-04-15 20:56:14.875820,CUST4555,success,2026-04-15,20,Wednesday,April
+TXN202604190631,Business District,withdrawal,314.03,2026-04-12 02:45:14.875835,CUST8469,failed,2026-04-12,2,Sunday,April
+TXN202604190632,Business District,balance_check,0.0,2026-04-16 17:03:14.875851,CUST2926,success,2026-04-16,17,Thursday,April
+TXN202604190633,Residential Area East,withdrawal,182.46,2026-03-23 02:24:14.875865,CUST8941,success,2026-03-23,2,Monday,March
+TXN202604190634,Tourist Center,withdrawal,21.99,2026-04-16 02:36:14.875881,CUST9968,success,2026-04-16,2,Thursday,April
+TXN202604190635,University Campus Main,withdrawal,135.93,2026-04-04 15:12:14.875896,CUST1058,success,2026-04-04,15,Saturday,April
+TXN202604190636,Shopping Mall South,withdrawal,97.49,2026-03-26 23:50:14.875913,CUST9951,success,2026-03-26,23,Thursday,March
+TXN202604190637,Downtown Branch,withdrawal,271.0,2026-03-25 03:24:14.875929,CUST2757,success,2026-03-25,3,Wednesday,March
+TXN202604190638,Business District,withdrawal,109.19,2026-03-30 23:10:14.875945,CUST6396,success,2026-03-30,23,Monday,March
+TXN202604190639,Residential Area East,balance_check,0.0,2026-04-09 02:36:14.875964,CUST5221,success,2026-04-09,2,Thursday,April
+TXN202604190640,Residential Area East,withdrawal,147.9,2026-04-01 03:35:14.875978,CUST9369,success,2026-04-01,3,Wednesday,April
+TXN202604190641,Industrial Zone,transfer,653.13,2026-04-16 03:44:14.875994,CUST4199,success,2026-04-16,3,Thursday,April
+TXN202604190642,Residential Area East,withdrawal,270.55,2026-03-26 04:02:14.876008,CUST1201,success,2026-03-26,4,Thursday,March
+TXN202604190643,Hospital Complex,withdrawal,181.39,2026-04-14 20:01:14.876025,CUST8459,success,2026-04-14,20,Tuesday,April
+TXN202604190644,Hospital Complex,withdrawal,40.95,2026-04-07 03:41:14.876040,CUST3828,success,2026-04-07,3,Tuesday,April
+TXN202604190645,Downtown Branch,withdrawal,18.48,2026-03-30 11:54:14.876056,CUST1736,success,2026-03-30,11,Monday,March
+TXN202604190646,Tourist Center,balance_check,0.0,2026-04-19 11:28:14.876074,CUST8779,success,2026-04-19,11,Sunday,April
+TXN202604190647,Industrial Zone,balance_check,0.0,2026-04-04 02:18:14.876087,CUST6439,success,2026-04-04,2,Saturday,April
+TXN202604190648,Airport Terminal,deposit,1045.56,2026-04-08 11:01:14.876103,CUST4562,success,2026-04-08,11,Wednesday,April
+TXN202604190649,University Campus Main,balance_check,0.0,2026-04-16 23:24:14.876118,CUST5318,success,2026-04-16,23,Thursday,April
+TXN202604190650,Train Station Central,withdrawal,310.16,2026-04-01 17:30:14.876132,CUST1199,success,2026-04-01,17,Wednesday,April
+TXN202604190651,Business District,deposit,933.63,2026-04-03 20:59:14.876149,CUST8689,success,2026-04-03,20,Friday,April
+TXN202604190652,Downtown Branch,withdrawal,376.96,2026-03-29 01:30:14.876163,CUST1171,success,2026-03-29,1,Sunday,March
+TXN202604190653,Shopping Mall South,balance_check,0.0,2026-03-26 18:09:14.876179,CUST5653,success,2026-03-26,18,Thursday,March
+TXN202604190654,Business District,withdrawal,57.38,2026-04-01 23:24:14.876191,CUST2361,success,2026-04-01,23,Wednesday,April
+TXN202604190655,Downtown Branch,withdrawal,87.92,2026-04-01 18:46:14.876207,CUST9315,success,2026-04-01,18,Wednesday,April
+TXN202604190656,Sports Stadium,deposit,1758.56,2026-04-16 23:22:14.876223,CUST8752,success,2026-04-16,23,Thursday,April
+TXN202604190657,Sports Stadium,withdrawal,375.13,2026-03-25 06:53:14.876240,CUST4631,success,2026-03-25,6,Wednesday,March
+TXN202604190658,Business District,withdrawal,418.92,2026-03-20 02:41:14.876256,CUST4644,success,2026-03-20,2,Friday,March
+TXN202604190659,Business District,withdrawal,302.08,2026-03-22 02:27:14.876273,CUST7156,success,2026-03-22,2,Sunday,March
+TXN202604190660,Downtown Branch,deposit,1216.98,2026-03-21 16:13:14.876289,CUST4256,success,2026-03-21,16,Saturday,March
+TXN202604190661,Shopping Mall South,balance_check,0.0,2026-04-07 18:53:14.876303,CUST8623,success,2026-04-07,18,Tuesday,April
+TXN202604190662,Industrial Zone,withdrawal,64.95,2026-04-15 16:30:14.876316,CUST7878,success,2026-04-15,16,Wednesday,April
+TXN202604190663,University Campus Main,withdrawal,281.16,2026-03-21 22:57:14.876332,CUST5211,success,2026-03-21,22,Saturday,March
+TXN202604190664,University Campus Science,withdrawal,21.59,2026-03-21 23:06:14.876349,CUST7953,success,2026-03-21,23,Saturday,March
+TXN202604190665,Sports Stadium,withdrawal,288.46,2026-03-24 11:28:14.876365,CUST1962,success,2026-03-24,11,Tuesday,March
+TXN202604190666,Residential Area West,withdrawal,114.1,2026-03-30 23:03:14.876380,CUST1580,success,2026-03-30,23,Monday,March
+TXN202604190667,Shopping Mall South,withdrawal,361.18,2026-04-16 18:35:14.876396,CUST1144,success,2026-04-16,18,Thursday,April
+TXN202604190668,Shopping Mall South,withdrawal,122.91,2026-03-29 22:18:14.876412,CUST7270,success,2026-03-29,22,Sunday,March
+TXN202604190669,Airport Terminal,balance_check,0.0,2026-03-28 01:52:14.876431,CUST1451,success,2026-03-28,1,Saturday,March
+TXN202604190670,Shopping Mall South,withdrawal,180.45,2026-03-24 15:38:14.876444,CUST4998,success,2026-03-24,15,Tuesday,March
+TXN202604190671,Shopping Mall South,withdrawal,91.99,2026-03-30 05:42:14.876460,CUST7878,success,2026-03-30,5,Monday,March
+TXN202604190672,Tourist Center,balance_check,0.0,2026-04-08 22:51:14.876476,CUST6390,success,2026-04-08,22,Wednesday,April
+TXN202604190673,Shopping Mall North,withdrawal,189.66,2026-04-02 07:55:14.876489,CUST7134,success,2026-04-02,7,Thursday,April
+TXN202604190674,Downtown Branch,balance_check,0.0,2026-04-16 02:29:14.876506,CUST5364,success,2026-04-16,2,Thursday,April
+TXN202604190675,Downtown Branch,balance_check,0.0,2026-04-12 19:01:14.876519,CUST6771,success,2026-04-12,19,Sunday,April
+TXN202604190676,Tourist Center,balance_check,0.0,2026-03-21 22:48:14.876532,CUST3270,success,2026-03-21,22,Saturday,March
+TXN202604190677,Downtown Branch,deposit,1095.07,2026-04-11 18:37:14.876548,CUST3375,success,2026-04-11,18,Saturday,April
+TXN202604190678,Downtown Branch,withdrawal,65.51,2026-04-03 16:04:14.876562,CUST3639,success,2026-04-03,16,Friday,April
+TXN202604190679,Industrial Zone,deposit,1486.77,2026-03-21 01:45:14.876579,CUST3391,success,2026-03-21,1,Saturday,March
+TXN202604190680,University Campus Main,balance_check,0.0,2026-04-13 22:37:14.876593,CUST1313,success,2026-04-13,22,Monday,April
+TXN202604190681,Residential Area West,balance_check,0.0,2026-03-26 18:52:14.876606,CUST8999,success,2026-03-26,18,Thursday,March
+TXN202604190682,Downtown Branch,deposit,1421.53,2026-04-11 15:50:14.876619,CUST1436,success,2026-04-11,15,Saturday,April
+TXN202604190683,Industrial Zone,withdrawal,82.42,2026-04-19 03:42:14.876633,CUST3165,success,2026-04-19,3,Sunday,April
+TXN202604190684,Residential Area East,balance_check,0.0,2026-03-28 23:39:14.876648,CUST2294,success,2026-03-28,23,Saturday,March
+TXN202604190685,Shopping Mall South,balance_check,0.0,2026-04-09 18:42:14.876662,CUST7626,success,2026-04-09,18,Thursday,April
+TXN202604190686,Residential Area West,withdrawal,422.11,2026-04-04 23:27:14.876675,CUST5090,failed,2026-04-04,23,Saturday,April
+TXN202604190687,Shopping Mall South,withdrawal,181.36,2026-04-01 18:19:14.876691,CUST5750,success,2026-04-01,18,Wednesday,April
+TXN202604190688,University Campus Science,withdrawal,201.44,2026-04-10 17:12:14.876707,CUST4840,success,2026-04-10,17,Friday,April
+TXN202604190689,Downtown Branch,balance_check,0.0,2026-03-30 15:35:14.876725,CUST6338,success,2026-03-30,15,Monday,March
+TXN202604190690,Residential Area East,transfer,730.66,2026-04-09 04:01:14.876739,CUST1583,success,2026-04-09,4,Thursday,April
+TXN202604190691,Shopping Mall North,withdrawal,101.34,2026-03-28 17:34:14.876754,CUST9002,success,2026-03-28,17,Saturday,March
+TXN202604190692,Airport Terminal,withdrawal,115.56,2026-04-11 08:46:14.876769,CUST1192,success,2026-04-11,8,Saturday,April
+TXN202604190693,Hospital Complex,deposit,151.75,2026-03-28 23:05:14.876785,CUST7448,success,2026-03-28,23,Saturday,March
+TXN202604190694,Shopping Mall North,transfer,465.42,2026-03-19 22:47:14.876799,CUST3960,success,2026-03-19,22,Thursday,March
+TXN202604190695,Business District,balance_check,0.0,2026-04-05 02:10:14.876813,CUST5051,success,2026-04-05,2,Sunday,April
+TXN202604190696,Hospital Complex,withdrawal,132.42,2026-04-18 23:12:14.876828,CUST6019,success,2026-04-18,23,Saturday,April
+TXN202604190697,University Campus Main,withdrawal,322.45,2026-04-01 13:27:14.876844,CUST7785,success,2026-04-01,13,Wednesday,April
+TXN202604190698,Downtown Branch,withdrawal,316.52,2026-04-15 23:36:14.876860,CUST4325,success,2026-04-15,23,Wednesday,April
+TXN202604190699,Shopping Mall South,withdrawal,64.19,2026-04-19 02:45:14.876876,CUST2475,success,2026-04-19,2,Sunday,April
+TXN202604190700,Hospital Complex,withdrawal,112.19,2026-03-30 02:48:14.876892,CUST3000,success,2026-03-30,2,Monday,March
+TXN202604190701,Hospital Complex,transfer,210.17,2026-03-30 06:31:14.876908,CUST2865,success,2026-03-30,6,Monday,March
+TXN202604190702,Industrial Zone,balance_check,0.0,2026-04-10 14:24:14.876922,CUST5219,success,2026-04-10,14,Friday,April
+TXN202604190703,Airport Terminal,withdrawal,153.0,2026-04-09 01:55:14.876935,CUST7437,success,2026-04-09,1,Thursday,April
+TXN202604190704,Residential Area East,withdrawal,20.78,2026-03-23 23:40:14.876951,CUST5195,success,2026-03-23,23,Monday,March
+TXN202604190705,Business District,transfer,106.47,2026-03-19 23:29:14.876967,CUST3727,success,2026-03-19,23,Thursday,March
+TXN202604190706,Downtown Branch,deposit,1438.01,2026-04-07 03:21:14.876983,CUST3236,success,2026-04-07,3,Tuesday,April
+TXN202604190707,University Campus Main,balance_check,0.0,2026-04-04 03:21:14.876998,CUST2751,failed,2026-04-04,3,Saturday,April
+TXN202604190708,Industrial Zone,withdrawal,40.65,2026-04-11 23:46:14.877011,CUST6248,success,2026-04-11,23,Saturday,April
+TXN202604190709,Shopping Mall South,withdrawal,90.34,2026-04-19 02:32:14.877027,CUST4511,success,2026-04-19,2,Sunday,April
+TXN202604190710,Shopping Mall South,withdrawal,316.46,2026-03-31 08:34:14.877045,CUST3861,success,2026-03-31,8,Tuesday,March
+TXN202604190711,Shopping Mall North,balance_check,0.0,2026-04-02 06:26:14.877061,CUST9885,success,2026-04-02,6,Thursday,April
+TXN202604190712,Shopping Mall South,withdrawal,37.72,2026-03-28 10:02:14.877075,CUST6713,success,2026-03-28,10,Saturday,March
+TXN202604190713,Residential Area East,withdrawal,186.29,2026-03-26 16:22:14.877090,CUST9173,success,2026-03-26,16,Thursday,March
+TXN202604190714,Residential Area West,withdrawal,120.88,2026-04-11 11:57:14.877106,CUST1178,success,2026-04-11,11,Saturday,April
+TXN202604190715,Business District,withdrawal,99.88,2026-03-28 17:17:14.877122,CUST2895,success,2026-03-28,17,Saturday,March
+TXN202604190716,Downtown Branch,balance_check,0.0,2026-04-09 22:07:14.877138,CUST8259,success,2026-04-09,22,Thursday,April
+TXN202604190717,Residential Area West,withdrawal,38.44,2026-04-16 02:35:14.877154,CUST7188,success,2026-04-16,2,Thursday,April
+TXN202604190718,Downtown Branch,withdrawal,107.2,2026-04-07 07:59:14.877170,CUST6613,success,2026-04-07,7,Tuesday,April
+TXN202604190719,Airport Terminal,balance_check,0.0,2026-03-25 23:52:14.877186,CUST4436,failed,2026-03-25,23,Wednesday,March
+TXN202604190720,Tourist Center,withdrawal,21.31,2026-03-27 23:46:14.877199,CUST2717,success,2026-03-27,23,Friday,March
+TXN202604190721,Shopping Mall South,withdrawal,420.06,2026-04-17 22:29:14.877214,CUST2766,success,2026-04-17,22,Friday,April
+TXN202604190722,Business District,withdrawal,383.48,2026-04-11 03:18:14.877239,CUST1650,success,2026-04-11,3,Saturday,April
+TXN202604190723,Hospital Complex,deposit,386.86,2026-04-09 17:47:14.877256,CUST4947,success,2026-04-09,17,Thursday,April
+TXN202604190724,Downtown Branch,withdrawal,367.24,2026-04-03 02:58:14.877271,CUST4811,success,2026-04-03,2,Friday,April
+TXN202604190725,Train Station Central,withdrawal,209.91,2026-04-10 15:42:14.877286,CUST1454,success,2026-04-10,15,Friday,April
+TXN202604190726,Hospital Complex,balance_check,0.0,2026-04-13 18:20:14.877302,CUST6050,success,2026-04-13,18,Monday,April
+TXN202604190727,Residential Area West,deposit,469.3,2026-03-31 04:02:14.877315,CUST4764,success,2026-03-31,4,Tuesday,March
+TXN202604190728,Shopping Mall South,withdrawal,201.88,2026-04-17 22:07:14.877329,CUST6132,success,2026-04-17,22,Friday,April
+TXN202604190729,Shopping Mall South,withdrawal,201.13,2026-03-31 16:49:14.877345,CUST2949,success,2026-03-31,16,Tuesday,March
+TXN202604190730,Shopping Mall South,balance_check,0.0,2026-04-18 22:58:14.877364,CUST5905,failed,2026-04-18,22,Saturday,April
+TXN202604190731,Train Station Central,balance_check,0.0,2026-04-15 16:04:14.877377,CUST7081,success,2026-04-15,16,Wednesday,April
+TXN202604190732,Tourist Center,withdrawal,211.74,2026-04-08 17:25:14.877390,CUST3188,success,2026-04-08,17,Wednesday,April
+TXN202604190733,Airport Terminal,withdrawal,218.86,2026-03-20 02:46:14.877406,CUST8377,success,2026-03-20,2,Friday,March
+TXN202604190734,Airport Terminal,deposit,1357.71,2026-04-01 02:21:14.877422,CUST9635,success,2026-04-01,2,Wednesday,April
+TXN202604190735,Sports Stadium,withdrawal,102.78,2026-03-20 15:28:14.877439,CUST9738,success,2026-03-20,15,Friday,March
+TXN202604190736,University Campus Science,withdrawal,203.16,2026-04-05 15:52:14.877455,CUST4745,success,2026-04-05,15,Sunday,April
+TXN202604190737,Business District,balance_check,0.0,2026-03-24 17:33:14.877471,CUST3038,success,2026-03-24,17,Tuesday,March
+TXN202604190738,Industrial Zone,balance_check,0.0,2026-04-17 06:25:14.877484,CUST4465,success,2026-04-17,6,Friday,April
+TXN202604190739,Residential Area East,withdrawal,60.8,2026-04-02 03:05:14.877497,CUST5586,success,2026-04-02,3,Thursday,April
+TXN202604190740,Business District,balance_check,0.0,2026-04-03 23:08:14.877514,CUST2683,success,2026-04-03,23,Friday,April
+TXN202604190741,Train Station Central,withdrawal,18.62,2026-03-24 15:51:14.877526,CUST1741,success,2026-03-24,15,Tuesday,March
+TXN202604190742,Residential Area West,transfer,474.06,2026-04-09 03:57:14.877542,CUST6763,success,2026-04-09,3,Thursday,April
+TXN202604190743,Downtown Branch,withdrawal,191.65,2026-04-18 16:07:14.877556,CUST4328,success,2026-04-18,16,Saturday,April
+TXN202604190744,Shopping Mall North,deposit,679.47,2026-04-11 00:14:14.877572,CUST7891,success,2026-04-11,0,Saturday,April
+TXN202604190745,Downtown Branch,withdrawal,180.45,2026-04-07 03:19:14.877587,CUST5467,success,2026-04-07,3,Tuesday,April
+TXN202604190746,Train Station Central,withdrawal,463.77,2026-03-29 15:17:14.877603,CUST2032,success,2026-03-29,15,Sunday,March
+TXN202604190747,Downtown Branch,deposit,1255.06,2026-03-27 16:02:14.877618,CUST6237,success,2026-03-27,16,Friday,March
+TXN202604190748,Shopping Mall North,withdrawal,182.44,2026-03-29 23:51:14.877633,CUST5546,success,2026-03-29,23,Sunday,March
+TXN202604190749,Downtown Branch,withdrawal,217.81,2026-04-13 23:52:14.877648,CUST3104,success,2026-04-13,23,Monday,April
+TXN202604190750,Hospital Complex,withdrawal,140.08,2026-03-25 17:58:14.877664,CUST9402,success,2026-03-25,17,Wednesday,March
+TXN202604190751,Industrial Zone,deposit,1176.48,2026-04-02 18:07:14.877680,CUST6963,success,2026-04-02,18,Thursday,April
+TXN202604190752,Airport Terminal,withdrawal,108.61,2026-03-24 15:40:14.877697,CUST4830,success,2026-03-24,15,Tuesday,March
+TXN202604190753,Shopping Mall North,deposit,647.2,2026-03-22 02:23:14.877714,CUST1622,success,2026-03-22,2,Sunday,March
+TXN202604190754,Airport Terminal,withdrawal,102.32,2026-03-30 17:45:14.877728,CUST3180,success,2026-03-30,17,Monday,March
+TXN202604190755,Hospital Complex,deposit,1127.72,2026-03-28 18:26:14.877746,CUST8724,success,2026-03-28,18,Saturday,March
+TXN202604190756,Shopping Mall North,withdrawal,384.39,2026-03-25 16:53:14.877761,CUST5880,success,2026-03-25,16,Wednesday,March
+TXN202604190757,Airport Terminal,deposit,172.72,2026-03-20 04:25:14.877777,CUST1036,success,2026-03-20,4,Friday,March
+TXN202604190758,Hospital Complex,deposit,792.39,2026-03-30 02:35:14.877791,CUST9161,success,2026-03-30,2,Monday,March
+TXN202604190759,Train Station Central,balance_check,0.0,2026-03-22 00:34:14.877805,CUST7901,success,2026-03-22,0,Sunday,March
+TXN202604190760,Residential Area East,withdrawal,21.52,2026-04-05 03:19:14.877821,CUST3492,success,2026-04-05,3,Sunday,April
+TXN202604190761,University Campus Main,withdrawal,326.19,2026-03-28 15:56:14.877839,CUST2119,success,2026-03-28,15,Saturday,March
+TXN202604190762,Shopping Mall South,withdrawal,61.27,2026-03-21 03:40:14.877856,CUST7882,success,2026-03-21,3,Saturday,March
+TXN202604190763,Hospital Complex,transfer,397.27,2026-04-01 23:34:14.877872,CUST8208,success,2026-04-01,23,Wednesday,April
+TXN202604190764,Train Station Central,balance_check,0.0,2026-04-11 02:44:14.877886,CUST9698,success,2026-04-11,2,Saturday,April
+TXN202604190765,University Campus Main,withdrawal,215.64,2026-04-06 23:06:14.877900,CUST3148,success,2026-04-06,23,Monday,April
+TXN202604190766,Hospital Complex,withdrawal,110.52,2026-04-11 16:31:14.877916,CUST3378,success,2026-04-11,16,Saturday,April
+TXN202604190767,Hospital Complex,balance_check,0.0,2026-04-02 23:24:14.877932,CUST7396,success,2026-04-02,23,Thursday,April
+TXN202604190768,Residential Area East,withdrawal,545.59,2026-03-30 17:24:14.877945,CUST2584,success,2026-03-30,17,Monday,March
+TXN202604190769,Tourist Center,withdrawal,43.52,2026-03-22 00:33:14.877961,CUST1474,success,2026-03-22,0,Sunday,March
+TXN202604190770,Shopping Mall South,deposit,400.71,2026-04-18 03:42:14.877976,CUST9816,success,2026-04-18,3,Saturday,April
+TXN202604190771,Downtown Branch,withdrawal,288.16,2026-03-28 20:16:14.877990,CUST6435,success,2026-03-28,20,Saturday,March
+TXN202604190772,University Campus Science,withdrawal,19.69,2026-04-01 12:48:14.878009,CUST3267,success,2026-04-01,12,Wednesday,April
+TXN202604190773,Shopping Mall South,balance_check,0.0,2026-04-17 01:53:14.878026,CUST4819,success,2026-04-17,1,Friday,April
+TXN202604190774,Downtown Branch,balance_check,0.0,2026-04-15 16:24:14.878041,CUST7402,success,2026-04-15,16,Wednesday,April
+TXN202604190775,Sports Stadium,balance_check,0.0,2026-04-10 13:05:14.878057,CUST1894,success,2026-04-10,13,Friday,April
+TXN202604190776,Shopping Mall North,transfer,711.62,2026-04-07 04:10:14.878088,CUST6765,success,2026-04-07,4,Tuesday,April
+TXN202604190777,Shopping Mall North,withdrawal,59.98,2026-04-03 15:43:14.878121,CUST9340,success,2026-04-03,15,Friday,April
+TXN202604190778,Shopping Mall North,withdrawal,198.84,2026-04-11 01:52:14.878141,CUST6764,success,2026-04-11,1,Saturday,April
+TXN202604190779,Residential Area West,balance_check,0.0,2026-03-28 21:02:14.878157,CUST2097,success,2026-03-28,21,Saturday,March
+TXN202604190780,Residential Area West,deposit,560.83,2026-04-19 02:46:14.878171,CUST2825,success,2026-04-19,2,Sunday,April
+TXN202604190781,Hospital Complex,withdrawal,142.78,2026-03-19 22:07:14.878185,CUST9314,success,2026-03-19,22,Thursday,March
+TXN202604190782,Train Station Central,withdrawal,20.79,2026-04-17 10:53:14.878201,CUST9128,success,2026-04-17,10,Friday,April
+TXN202604190783,Residential Area East,withdrawal,97.2,2026-04-10 03:46:14.878217,CUST9682,success,2026-04-10,3,Friday,April
+TXN202604190784,Residential Area East,deposit,1705.47,2026-03-25 01:54:14.878233,CUST5273,success,2026-03-25,1,Wednesday,March
+TXN202604190785,University Campus Main,withdrawal,19.81,2026-04-06 15:39:14.878248,CUST5623,success,2026-04-06,15,Monday,April
+TXN202604190786,Airport Terminal,withdrawal,181.21,2026-04-07 18:16:14.878264,CUST2843,success,2026-04-07,18,Tuesday,April
+TXN202604190787,Shopping Mall South,balance_check,0.0,2026-04-08 23:56:14.878280,CUST5808,success,2026-04-08,23,Wednesday,April
+TXN202604190788,Shopping Mall South,balance_check,0.0,2026-04-09 16:24:14.878293,CUST5919,success,2026-04-09,16,Thursday,April
+TXN202604190789,University Campus Science,withdrawal,412.73,2026-04-08 03:59:14.878306,CUST6674,success,2026-04-08,3,Wednesday,April
+TXN202604190790,Downtown Branch,withdrawal,21.75,2026-04-15 16:28:14.878322,CUST1724,success,2026-04-15,16,Wednesday,April
+TXN202604190791,Residential Area West,withdrawal,172.82,2026-03-31 02:40:14.878345,CUST9302,success,2026-03-31,2,Tuesday,March
+TXN202604190792,Downtown Branch,withdrawal,202.93,2026-04-01 13:12:14.878361,CUST2285,success,2026-04-01,13,Wednesday,April
+TXN202604190793,Tourist Center,withdrawal,376.75,2026-04-01 23:15:14.878380,CUST9156,success,2026-04-01,23,Wednesday,April
+TXN202604190794,Shopping Mall North,withdrawal,109.4,2026-04-17 18:43:14.878397,CUST4484,success,2026-04-17,18,Friday,April
+TXN202604190795,Airport Terminal,withdrawal,102.33,2026-04-04 17:22:14.878416,CUST5507,success,2026-04-04,17,Saturday,April
+TXN202604190796,Tourist Center,withdrawal,305.45,2026-03-28 21:51:14.878433,CUST2608,success,2026-03-28,21,Saturday,March
+TXN202604190797,Business District,balance_check,0.0,2026-04-18 22:28:14.878449,CUST8282,success,2026-04-18,22,Saturday,April
+TXN202604190798,University Campus Main,balance_check,0.0,2026-04-04 04:34:14.878462,CUST3258,success,2026-04-04,4,Saturday,April
+TXN202604190799,Residential Area West,balance_check,0.0,2026-04-14 10:00:14.878475,CUST8016,success,2026-04-14,10,Tuesday,April
+TXN202604190800,Hospital Complex,withdrawal,180.79,2026-04-17 16:00:14.878489,CUST3580,success,2026-04-17,16,Friday,April
+TXN202604190801,Shopping Mall North,deposit,1476.89,2026-03-25 02:39:14.878506,CUST7332,success,2026-03-25,2,Wednesday,March
+TXN202604190802,Residential Area East,withdrawal,61.31,2026-03-26 09:36:14.878520,CUST3425,success,2026-03-26,9,Thursday,March
+TXN202604190803,Business District,withdrawal,284.27,2026-04-12 02:09:14.878537,CUST7499,success,2026-04-12,2,Sunday,April
+TXN202604190804,Residential Area East,withdrawal,165.15,2026-04-09 03:46:14.878553,CUST9269,success,2026-04-09,3,Thursday,April
+TXN202604190805,Residential Area West,withdrawal,403.16,2026-04-18 15:14:14.878569,CUST8194,success,2026-04-18,15,Saturday,April
+TXN202604190806,Downtown Branch,transfer,193.85,2026-04-09 21:34:14.878585,CUST2234,success,2026-04-09,21,Thursday,April
+TXN202604190807,Downtown Branch,deposit,676.98,2026-04-01 18:28:14.878600,CUST3170,success,2026-04-01,18,Wednesday,April
+TXN202604190808,Downtown Branch,withdrawal,310.48,2026-04-15 21:41:14.878614,CUST7720,success,2026-04-15,21,Wednesday,April
+TXN202604190809,Residential Area East,balance_check,0.0,2026-03-30 22:57:14.878630,CUST8009,success,2026-03-30,22,Monday,March
+TXN202604190810,Hospital Complex,withdrawal,150.02,2026-04-03 11:44:14.878643,CUST7772,success,2026-04-03,11,Friday,April
+TXN202604190811,Industrial Zone,withdrawal,19.77,2026-04-06 18:07:14.878659,CUST2736,success,2026-04-06,18,Monday,April
+TXN202604190812,Hospital Complex,withdrawal,82.46,2026-04-09 01:42:14.878675,CUST6270,success,2026-04-09,1,Thursday,April
+TXN202604190813,Train Station Central,withdrawal,364.59,2026-04-07 22:21:14.878695,CUST8339,success,2026-04-07,22,Tuesday,April
+TXN202604190814,Sports Stadium,withdrawal,106.83,2026-03-26 15:54:14.878714,CUST4095,success,2026-03-26,15,Thursday,March
+TXN202604190815,Airport Terminal,withdrawal,21.7,2026-04-01 18:54:14.878730,CUST4333,success,2026-04-01,18,Wednesday,April
+TXN202604190816,Shopping Mall South,withdrawal,103.96,2026-04-01 22:18:14.878747,CUST2270,success,2026-04-01,22,Wednesday,April
+TXN202604190817,Residential Area West,withdrawal,407.56,2026-03-22 21:22:14.878763,CUST1181,success,2026-03-22,21,Sunday,March
+TXN202604190818,Tourist Center,balance_check,0.0,2026-03-22 16:38:14.878779,CUST4156,success,2026-03-22,16,Sunday,March
+TXN202604190819,Hospital Complex,balance_check,0.0,2026-04-04 03:23:14.878792,CUST9093,success,2026-04-04,3,Saturday,April
+TXN202604190820,Residential Area East,withdrawal,78.92,2026-03-25 06:45:14.878805,CUST1565,success,2026-03-25,6,Wednesday,March
+TXN202604190821,University Campus Main,withdrawal,282.74,2026-03-21 04:02:14.878821,CUST2794,success,2026-03-21,4,Saturday,March
+TXN202604190822,Tourist Center,withdrawal,418.32,2026-04-04 18:59:14.878837,CUST4174,success,2026-04-04,18,Saturday,April
+TXN202604190823,Shopping Mall South,withdrawal,101.11,2026-03-28 23:02:14.878853,CUST9398,success,2026-03-28,23,Saturday,March
+TXN202604190824,Sports Stadium,balance_check,0.0,2026-04-10 05:10:14.878869,CUST5656,success,2026-04-10,5,Friday,April
+TXN202604190825,Airport Terminal,withdrawal,455.33,2026-03-29 16:45:14.878882,CUST7546,success,2026-03-29,16,Sunday,March
+TXN202604190826,Hospital Complex,withdrawal,100.78,2026-03-22 23:01:14.878898,CUST4332,success,2026-03-22,23,Sunday,March
+TXN202604190827,Residential Area East,balance_check,0.0,2026-03-25 11:13:14.878914,CUST4735,success,2026-03-25,11,Wednesday,March
+TXN202604190828,Residential Area West,withdrawal,137.7,2026-03-27 14:18:14.878927,CUST5386,success,2026-03-27,14,Friday,March
+TXN202604190829,Business District,withdrawal,292.5,2026-03-30 11:03:14.878943,CUST2118,success,2026-03-30,11,Monday,March
+TXN202604190830,Shopping Mall South,withdrawal,208.58,2026-04-13 03:00:14.878960,CUST4827,failed,2026-04-13,3,Monday,April
+TXN202604190831,University Campus Main,withdrawal,190.63,2026-04-02 02:50:14.878976,CUST2740,success,2026-04-02,2,Thursday,April
+TXN202604190832,Residential Area East,withdrawal,98.31,2026-03-27 15:49:14.878993,CUST9093,success,2026-03-27,15,Friday,March
+TXN202604190833,Business District,withdrawal,210.06,2026-04-12 17:00:14.879013,CUST5333,success,2026-04-12,17,Sunday,April
+TXN202604190834,Residential Area West,balance_check,0.0,2026-04-15 01:06:14.879032,CUST4980,success,2026-04-15,1,Wednesday,April
+TXN202604190835,Hospital Complex,withdrawal,187.97,2026-04-02 02:35:14.879046,CUST2993,failed,2026-04-02,2,Thursday,April
+TXN202604190836,Airport Terminal,withdrawal,168.95,2026-04-03 17:23:14.879062,CUST2994,success,2026-04-03,17,Friday,April
+TXN202604190837,Business District,withdrawal,106.69,2026-03-24 06:02:14.879079,CUST1782,success,2026-03-24,6,Tuesday,March
+TXN202604190838,Downtown Branch,withdrawal,169.71,2026-04-14 18:31:14.879095,CUST8424,success,2026-04-14,18,Tuesday,April
+TXN202604190839,Shopping Mall South,withdrawal,218.28,2026-03-23 16:20:14.879111,CUST1855,success,2026-03-23,16,Monday,March
+TXN202604190840,Downtown Branch,withdrawal,329.75,2026-03-31 22:15:14.879127,CUST2175,success,2026-03-31,22,Tuesday,March
+TXN202604190841,Hospital Complex,balance_check,0.0,2026-04-13 23:04:14.879143,CUST7068,success,2026-04-13,23,Monday,April
+TXN202604190842,Train Station Central,withdrawal,311.69,2026-03-27 12:26:14.879156,CUST4591,success,2026-03-27,12,Friday,March
+TXN202604190843,Business District,deposit,811.1,2026-04-07 22:00:14.879172,CUST3236,success,2026-04-07,22,Tuesday,April
+TXN202604190844,Downtown Branch,balance_check,0.0,2026-04-18 17:59:14.879191,CUST6578,success,2026-04-18,17,Saturday,April
+TXN202604190845,Business District,withdrawal,309.47,2026-04-13 03:30:14.879239,CUST1754,success,2026-04-13,3,Monday,April
+TXN202604190846,University Campus Science,withdrawal,429.95,2026-03-22 15:47:14.879264,CUST2838,success,2026-03-22,15,Sunday,March
+TXN202604190847,Business District,withdrawal,302.55,2026-04-09 02:41:14.879282,CUST1596,success,2026-04-09,2,Thursday,April
+TXN202604190848,Train Station Central,withdrawal,210.3,2026-03-31 18:43:14.879299,CUST9407,success,2026-03-31,18,Tuesday,March
+TXN202604190849,Business District,balance_check,0.0,2026-04-14 05:05:14.879316,CUST8576,success,2026-04-14,5,Tuesday,April
+TXN202604190850,Shopping Mall South,withdrawal,308.75,2026-04-02 00:14:14.879333,CUST4122,success,2026-04-02,0,Thursday,April
+TXN202604190851,Downtown Branch,withdrawal,380.61,2026-04-12 18:51:14.879358,CUST8793,success,2026-04-12,18,Sunday,April
+TXN202604190852,Hospital Complex,withdrawal,124.67,2026-03-23 04:00:14.879390,CUST1802,success,2026-03-23,4,Monday,March
+TXN202604190853,Residential Area East,withdrawal,109.82,2026-04-17 12:42:14.879414,CUST3540,success,2026-04-17,12,Friday,April
+TXN202604190854,Shopping Mall North,withdrawal,364.96,2026-03-28 18:01:14.879439,CUST4939,success,2026-03-28,18,Saturday,March
+TXN202604190855,Shopping Mall North,withdrawal,496.57,2026-03-21 16:29:14.879468,CUST8846,success,2026-03-21,16,Saturday,March
+TXN202604190856,Business District,withdrawal,57.76,2026-03-31 23:13:14.879489,CUST9353,success,2026-03-31,23,Tuesday,March
+TXN202604190857,Business District,withdrawal,278.17,2026-04-11 16:24:14.879506,CUST1960,success,2026-04-11,16,Saturday,April
+TXN202604190858,Train Station Central,withdrawal,478.3,2026-03-28 16:25:14.879551,CUST5894,success,2026-03-28,16,Saturday,March
+TXN202604190859,Sports Stadium,withdrawal,195.52,2026-04-09 07:28:14.879597,CUST7548,failed,2026-04-09,7,Thursday,April
+TXN202604190860,Residential Area West,withdrawal,18.47,2026-04-01 09:35:14.879623,CUST2768,success,2026-04-01,9,Wednesday,April
+TXN202604190861,Downtown Branch,deposit,516.15,2026-03-31 04:28:14.879647,CUST5758,success,2026-03-31,4,Tuesday,March
+TXN202604190862,Business District,withdrawal,117.89,2026-04-03 18:48:14.879674,CUST1782,success,2026-04-03,18,Friday,April
+TXN202604190863,Shopping Mall North,withdrawal,186.45,2026-04-09 23:51:14.879697,CUST1667,success,2026-04-09,23,Thursday,April
+TXN202604190864,Downtown Branch,withdrawal,97.44,2026-04-01 15:37:14.879714,CUST9660,success,2026-04-01,15,Wednesday,April
+TXN202604190865,Tourist Center,withdrawal,484.74,2026-04-07 02:11:14.879730,CUST9732,success,2026-04-07,2,Tuesday,April
+TXN202604190866,Residential Area East,transfer,157.24,2026-04-06 01:32:14.879747,CUST2978,success,2026-04-06,1,Monday,April
+TXN202604190867,Downtown Branch,deposit,282.13,2026-04-10 15:39:14.879762,CUST6113,success,2026-04-10,15,Friday,April
+TXN202604190868,Business District,balance_check,0.0,2026-04-01 01:25:14.879776,CUST4625,success,2026-04-01,1,Wednesday,April
+TXN202604190869,Downtown Branch,withdrawal,315.67,2026-03-24 18:13:14.879789,CUST6071,success,2026-03-24,18,Tuesday,March
+TXN202604190870,Business District,withdrawal,325.44,2026-04-15 22:14:14.879805,CUST6042,success,2026-04-15,22,Wednesday,April
+TXN202604190871,Train Station Central,withdrawal,99.33,2026-03-31 18:30:14.879821,CUST4695,success,2026-03-31,18,Tuesday,March
+TXN202604190872,University Campus Science,deposit,537.22,2026-03-22 17:40:14.879837,CUST5462,success,2026-03-22,17,Sunday,March
+TXN202604190873,Hospital Complex,balance_check,0.0,2026-04-17 18:37:14.879857,CUST3933,success,2026-04-17,18,Friday,April
+TXN202604190874,Business District,withdrawal,182.02,2026-04-10 23:05:14.879871,CUST3046,success,2026-04-10,23,Friday,April
+TXN202604190875,Industrial Zone,withdrawal,329.47,2026-03-30 18:19:14.879887,CUST8673,success,2026-03-30,18,Monday,March
+TXN202604190876,Sports Stadium,withdrawal,464.71,2026-03-28 16:33:14.879908,CUST1939,success,2026-03-28,16,Saturday,March
+TXN202604190877,Residential Area West,balance_check,0.0,2026-04-16 02:13:14.879924,CUST4784,success,2026-04-16,2,Thursday,April
+TXN202604190878,Business District,balance_check,0.0,2026-04-06 17:24:14.879936,CUST5672,success,2026-04-06,17,Monday,April
+TXN202604190879,Shopping Mall North,withdrawal,507.32,2026-04-17 23:19:14.879949,CUST3168,success,2026-04-17,23,Friday,April
+TXN202604190880,Hospital Complex,deposit,393.75,2026-03-30 02:11:14.879966,CUST1039,failed,2026-03-30,2,Monday,March
+TXN202604190881,Downtown Branch,balance_check,0.0,2026-04-11 02:33:14.879980,CUST5735,success,2026-04-11,2,Saturday,April
+TXN202604190882,Shopping Mall South,deposit,1639.95,2026-03-27 13:10:14.879992,CUST2341,success,2026-03-27,13,Friday,March
+TXN202604190883,University Campus Main,withdrawal,90.62,2026-03-19 18:59:14.880007,CUST5736,success,2026-03-19,18,Thursday,March
+TXN202604190884,Shopping Mall North,deposit,802.28,2026-04-17 03:37:14.880023,CUST2381,success,2026-04-17,3,Friday,April
+TXN202604190885,Shopping Mall South,withdrawal,423.18,2026-04-11 17:31:14.880037,CUST7277,success,2026-04-11,17,Saturday,April
+TXN202604190886,Downtown Branch,balance_check,0.0,2026-04-06 03:29:14.880053,CUST5294,success,2026-04-06,3,Monday,April
+TXN202604190887,Residential Area East,withdrawal,126.7,2026-04-10 23:26:14.880065,CUST5857,success,2026-04-10,23,Friday,April
+TXN202604190888,Downtown Branch,withdrawal,196.54,2026-04-15 16:30:14.880081,CUST8629,success,2026-04-15,16,Wednesday,April
+TXN202604190889,Downtown Branch,balance_check,0.0,2026-04-13 14:15:14.880097,CUST6624,success,2026-04-13,14,Monday,April
+TXN202604190890,Downtown Branch,transfer,663.29,2026-04-10 09:13:14.880110,CUST5192,success,2026-04-10,9,Friday,April
+TXN202604190891,Residential Area East,withdrawal,75.72,2026-03-26 16:25:14.880127,CUST5251,success,2026-03-26,16,Thursday,March
+TXN202604190892,Shopping Mall South,withdrawal,417.88,2026-04-11 02:46:14.880144,CUST9733,success,2026-04-11,2,Saturday,April
+TXN202604190893,Shopping Mall South,withdrawal,21.45,2026-04-09 17:40:14.880160,CUST6767,success,2026-04-09,17,Thursday,April
+TXN202604190894,Downtown Branch,balance_check,0.0,2026-03-29 12:59:14.880176,CUST1049,success,2026-03-29,12,Sunday,March
+TXN202604190895,Business District,balance_check,0.0,2026-03-26 15:46:14.880189,CUST7490,success,2026-03-26,15,Thursday,March
+TXN202604190896,Downtown Branch,balance_check,0.0,2026-03-27 11:52:14.880202,CUST9272,success,2026-03-27,11,Friday,March
+TXN202604190897,Downtown Branch,balance_check,0.0,2026-04-14 16:17:14.880217,CUST9732,success,2026-04-14,16,Tuesday,April
+TXN202604190898,Industrial Zone,balance_check,0.0,2026-03-20 03:48:14.880234,CUST2297,success,2026-03-20,3,Friday,March
+TXN202604190899,Shopping Mall South,withdrawal,172.58,2026-04-13 22:45:14.880253,CUST1843,success,2026-04-13,22,Monday,April
+TXN202604190900,Shopping Mall North,balance_check,0.0,2026-04-12 05:09:14.880270,CUST9578,success,2026-04-12,5,Sunday,April
+TXN202604190901,Business District,withdrawal,107.49,2026-04-08 02:31:14.880283,CUST8775,success,2026-04-08,2,Wednesday,April
+TXN202604190902,Residential Area East,withdrawal,398.25,2026-04-16 02:54:14.880299,CUST2214,success,2026-04-16,2,Thursday,April
+TXN202604190903,Shopping Mall South,withdrawal,18.05,2026-03-27 22:49:14.880315,CUST2856,success,2026-03-27,22,Friday,March
+TXN202604190904,University Campus Main,deposit,901.49,2026-03-26 17:51:14.880331,CUST9821,success,2026-03-26,17,Thursday,March
+TXN202604190905,Shopping Mall North,withdrawal,478.83,2026-04-18 03:42:14.880346,CUST9526,success,2026-04-18,3,Saturday,April
+TXN202604190906,Shopping Mall South,balance_check,0.0,2026-04-02 18:49:14.880362,CUST7803,success,2026-04-02,18,Thursday,April
+TXN202604190907,Business District,withdrawal,387.25,2026-03-20 14:49:14.880375,CUST3195,success,2026-03-20,14,Friday,March
+TXN202604190908,Airport Terminal,withdrawal,180.08,2026-03-24 03:38:14.880391,CUST7446,success,2026-03-24,3,Tuesday,March
+TXN202604190909,Residential Area West,withdrawal,324.78,2026-04-09 16:33:14.880407,CUST6399,success,2026-04-09,16,Thursday,April
+TXN202604190910,Shopping Mall North,withdrawal,108.89,2026-04-08 02:05:14.880423,CUST8675,success,2026-04-08,2,Wednesday,April
+TXN202604190911,Shopping Mall South,withdrawal,75.71,2026-04-12 14:46:14.880443,CUST6710,success,2026-04-12,14,Sunday,April
+TXN202604190912,Airport Terminal,withdrawal,18.38,2026-03-26 17:50:14.880459,CUST6745,success,2026-03-26,17,Thursday,March
+TXN202604190913,Airport Terminal,withdrawal,287.78,2026-04-01 23:17:14.880476,CUST5469,success,2026-04-01,23,Wednesday,April
+TXN202604190914,Downtown Branch,balance_check,0.0,2026-03-25 22:13:14.880492,CUST2199,success,2026-03-25,22,Wednesday,March
+TXN202604190915,Shopping Mall North,withdrawal,104.21,2026-04-04 03:04:14.880505,CUST7923,success,2026-04-04,3,Saturday,April
+TXN202604190916,Residential Area East,deposit,611.05,2026-04-16 02:24:14.880521,CUST3650,success,2026-04-16,2,Thursday,April
+TXN202604190917,Airport Terminal,withdrawal,285.83,2026-04-11 02:42:14.880538,CUST9335,success,2026-04-11,2,Saturday,April
+TXN202604190918,Industrial Zone,balance_check,0.0,2026-03-23 18:58:14.880554,CUST3122,success,2026-03-23,18,Monday,March
+TXN202604190919,Sports Stadium,deposit,1207.8,2026-04-11 03:09:14.880567,CUST9031,success,2026-04-11,3,Saturday,April
+TXN202604190920,Train Station Central,withdrawal,180.97,2026-04-15 21:07:14.880582,CUST2364,success,2026-04-15,21,Wednesday,April
+TXN202604190921,Downtown Branch,withdrawal,133.26,2026-03-28 18:24:14.880598,CUST5611,success,2026-03-28,18,Saturday,March
+TXN202604190922,University Campus Main,withdrawal,218.62,2026-03-19 16:15:14.880617,CUST9885,success,2026-03-19,16,Thursday,March
+TXN202604190923,Shopping Mall South,balance_check,0.0,2026-03-22 11:02:14.880633,CUST1558,success,2026-03-22,11,Sunday,March
+TXN202604190924,Downtown Branch,balance_check,0.0,2026-04-12 00:01:14.880646,CUST3346,success,2026-04-12,0,Sunday,April
+TXN202604190925,Shopping Mall North,deposit,873.49,2026-03-22 17:45:14.880659,CUST5355,failed,2026-03-22,17,Sunday,March
+TXN202604190926,Residential Area West,withdrawal,281.8,2026-03-30 23:22:14.880673,CUST9996,success,2026-03-30,23,Monday,March
+TXN202604190927,Shopping Mall South,deposit,966.6,2026-03-28 01:41:14.880689,CUST7072,success,2026-03-28,1,Saturday,March
+TXN202604190928,Downtown Branch,withdrawal,106.76,2026-04-16 18:50:14.880704,CUST2386,success,2026-04-16,18,Thursday,April
+TXN202604190929,Residential Area East,balance_check,0.0,2026-03-27 02:56:14.880720,CUST2612,success,2026-03-27,2,Friday,March
+TXN202604190930,Shopping Mall South,withdrawal,19.79,2026-04-09 16:55:14.880735,CUST1982,success,2026-04-09,16,Thursday,April
+TXN202604190931,Business District,deposit,1328.56,2026-04-14 02:14:14.880752,CUST8615,success,2026-04-14,2,Tuesday,April
+TXN202604190932,Business District,balance_check,0.0,2026-03-26 13:01:14.880766,CUST8575,failed,2026-03-26,13,Thursday,March
+TXN202604190933,Airport Terminal,withdrawal,118.39,2026-04-01 23:14:14.880779,CUST4364,success,2026-04-01,23,Wednesday,April
+TXN202604190934,University Campus Main,balance_check,0.0,2026-04-13 20:01:14.880795,CUST7982,success,2026-04-13,20,Monday,April
+TXN202604190935,Business District,withdrawal,97.54,2026-03-19 22:27:14.880808,CUST1169,success,2026-03-19,22,Thursday,March
+TXN202604190936,Business District,transfer,686.38,2026-03-29 23:36:14.880824,CUST3490,success,2026-03-29,23,Sunday,March
+TXN202604190937,Shopping Mall South,withdrawal,329.65,2026-04-17 17:08:14.880838,CUST5937,success,2026-04-17,17,Friday,April
+TXN202604190938,Residential Area West,withdrawal,297.24,2026-04-12 17:59:14.880858,CUST7111,success,2026-04-12,17,Sunday,April
+TXN202604190939,University Campus Science,withdrawal,81.05,2026-04-17 02:54:14.880874,CUST6019,failed,2026-04-17,2,Friday,April
+TXN202604190940,Hospital Complex,deposit,1611.18,2026-04-18 16:15:14.880890,CUST6805,success,2026-04-18,16,Saturday,April
+TXN202604190941,Tourist Center,withdrawal,175.21,2026-03-29 22:53:14.880905,CUST7883,success,2026-03-29,22,Sunday,March
+TXN202604190942,Business District,withdrawal,328.24,2026-03-26 04:54:14.880921,CUST1068,success,2026-03-26,4,Thursday,March
+TXN202604190943,Train Station Central,withdrawal,274.8,2026-03-22 03:04:14.880937,CUST5739,success,2026-03-22,3,Sunday,March
+TXN202604190944,Hospital Complex,withdrawal,19.87,2026-04-04 04:02:14.880953,CUST1164,success,2026-04-04,4,Saturday,April
+TXN202604190945,Airport Terminal,withdrawal,541.99,2026-04-02 18:34:14.880969,CUST6007,success,2026-04-02,18,Thursday,April
+TXN202604190946,Business District,deposit,1815.12,2026-03-21 15:33:14.880985,CUST7481,success,2026-03-21,15,Saturday,March
+TXN202604190947,Residential Area East,balance_check,0.0,2026-04-04 18:18:14.880999,CUST1749,success,2026-04-04,18,Saturday,April
+TXN202604190948,Residential Area West,withdrawal,209.34,2026-04-02 04:00:14.881012,CUST2380,success,2026-04-02,4,Thursday,April
+TXN202604190949,Airport Terminal,withdrawal,275.63,2026-03-21 13:39:14.881028,CUST7753,failed,2026-03-21,13,Saturday,March
+TXN202604190950,Sports Stadium,withdrawal,19.22,2026-03-27 03:04:14.881044,CUST2851,success,2026-03-27,3,Friday,March
+TXN202604190951,Residential Area East,withdrawal,208.03,2026-04-02 22:19:14.881066,CUST6268,success,2026-04-02,22,Thursday,April
+TXN202604190952,Hospital Complex,withdrawal,182.22,2026-04-13 15:35:14.881083,CUST6666,success,2026-04-13,15,Monday,April
+TXN202604190953,Residential Area West,withdrawal,204.65,2026-03-31 03:04:14.881099,CUST2874,success,2026-03-31,3,Tuesday,March
+TXN202604190954,Shopping Mall South,withdrawal,290.09,2026-04-02 07:09:14.881115,CUST3414,success,2026-04-02,7,Thursday,April
+TXN202604190955,Airport Terminal,withdrawal,134.77,2026-03-27 11:37:14.881131,CUST2738,success,2026-03-27,11,Friday,March
+TXN202604190956,Business District,balance_check,0.0,2026-04-12 08:06:14.881147,CUST4224,success,2026-04-12,8,Sunday,April
+TXN202604190957,Shopping Mall North,balance_check,0.0,2026-03-27 16:08:14.881160,CUST5572,success,2026-03-27,16,Friday,March
+TXN202604190958,Airport Terminal,withdrawal,128.72,2026-04-18 02:42:14.881173,CUST6752,success,2026-04-18,2,Saturday,April
+TXN202604190959,Downtown Branch,withdrawal,20.23,2026-03-22 05:52:14.881192,CUST7174,success,2026-03-22,5,Sunday,March
+TXN202604190960,University Campus Science,balance_check,0.0,2026-03-30 02:49:14.881208,CUST6274,success,2026-03-30,2,Monday,March
+TXN202604190961,Sports Stadium,withdrawal,425.44,2026-04-11 03:46:14.881221,CUST8647,success,2026-04-11,3,Saturday,April
+TXN202604190962,Shopping Mall South,withdrawal,126.5,2026-03-27 17:49:14.881252,CUST3702,success,2026-03-27,17,Friday,March
+TXN202604190963,Shopping Mall South,withdrawal,181.17,2026-03-23 03:29:14.881272,CUST1142,success,2026-03-23,3,Monday,March
+TXN202604190964,Residential Area West,deposit,856.61,2026-04-09 03:00:14.881289,CUST4838,success,2026-04-09,3,Thursday,April
+TXN202604190965,Airport Terminal,balance_check,0.0,2026-04-14 03:07:14.881304,CUST8267,success,2026-04-14,3,Tuesday,April
+TXN202604190966,University Campus Science,withdrawal,95.79,2026-03-29 15:35:14.881317,CUST5638,success,2026-03-29,15,Sunday,March
+TXN202604190967,Shopping Mall South,withdrawal,292.92,2026-04-03 23:42:14.881333,CUST9104,success,2026-04-03,23,Friday,April
+TXN202604190968,Airport Terminal,withdrawal,190.06,2026-04-06 22:51:14.881349,CUST5916,success,2026-04-06,22,Monday,April
+TXN202604190969,Airport Terminal,deposit,1057.11,2026-03-31 17:13:14.881367,CUST8757,success,2026-03-31,17,Tuesday,March
+TXN202604190970,University Campus Main,deposit,1614.97,2026-03-22 01:39:14.881382,CUST4661,success,2026-03-22,1,Sunday,March
+TXN202604190971,Business District,withdrawal,130.1,2026-04-13 22:15:14.881396,CUST9982,success,2026-04-13,22,Monday,April
+TXN202604190972,Shopping Mall North,withdrawal,163.07,2026-03-21 15:46:14.881412,CUST9413,success,2026-03-21,15,Saturday,March
+TXN202604190973,Airport Terminal,balance_check,0.0,2026-03-29 16:45:14.881428,CUST9909,success,2026-03-29,16,Sunday,March
+TXN202604190974,Business District,withdrawal,98.94,2026-04-02 22:47:14.881443,CUST6011,success,2026-04-02,22,Thursday,April
+TXN202604190975,Downtown Branch,withdrawal,190.28,2026-04-04 17:25:14.881459,CUST9702,success,2026-04-04,17,Saturday,April
+TXN202604190976,Shopping Mall North,withdrawal,313.04,2026-04-01 17:51:14.881476,CUST7359,success,2026-04-01,17,Wednesday,April
+TXN202604190977,Business District,withdrawal,424.27,2026-03-22 00:03:14.881492,CUST3165,success,2026-03-22,0,Sunday,March
+TXN202604190978,Shopping Mall North,withdrawal,185.38,2026-04-06 15:33:14.881508,CUST4102,success,2026-04-06,15,Monday,April
+TXN202604190979,Business District,withdrawal,42.06,2026-04-07 15:45:14.881524,CUST7305,success,2026-04-07,15,Tuesday,April
+TXN202604190980,Business District,withdrawal,206.04,2026-04-17 09:02:14.881544,CUST7774,success,2026-04-17,9,Friday,April
+TXN202604190981,Residential Area East,withdrawal,204.36,2026-03-19 16:13:14.881560,CUST9899,success,2026-03-19,16,Thursday,March
+TXN202604190982,Residential Area East,deposit,1265.56,2026-03-27 18:19:14.881576,CUST7618,success,2026-03-27,18,Friday,March
+TXN202604190983,Airport Terminal,withdrawal,189.29,2026-04-11 23:29:14.881591,CUST1821,success,2026-04-11,23,Saturday,April
+TXN202604190984,Hospital Complex,withdrawal,307.94,2026-04-16 03:04:14.881607,CUST6881,success,2026-04-16,3,Thursday,April
+TXN202604190985,University Campus Main,withdrawal,21.59,2026-04-16 19:04:14.881623,CUST2248,success,2026-04-16,19,Thursday,April
+TXN202604190986,Sports Stadium,withdrawal,390.11,2026-04-07 19:13:14.881639,CUST4773,success,2026-04-07,19,Tuesday,April
+TXN202604190987,Airport Terminal,withdrawal,110.91,2026-03-23 05:32:14.881655,CUST8761,success,2026-03-23,5,Monday,March
+TXN202604190988,Sports Stadium,withdrawal,532.84,2026-04-14 22:39:14.881671,CUST6413,failed,2026-04-14,22,Tuesday,April
+TXN202604190989,Train Station Central,withdrawal,196.13,2026-04-09 09:33:14.881689,CUST9198,success,2026-04-09,9,Thursday,April
+TXN202604190990,Industrial Zone,withdrawal,311.46,2026-03-26 16:04:14.881705,CUST9173,success,2026-03-26,16,Thursday,March
+TXN202604190991,Airport Terminal,withdrawal,211.95,2026-04-07 18:36:14.881721,CUST1185,success,2026-04-07,18,Tuesday,April
+TXN202604190992,University Campus Main,withdrawal,198.59,2026-04-12 17:30:14.881737,CUST8795,success,2026-04-12,17,Sunday,April
+TXN202604190993,Business District,withdrawal,72.88,2026-03-25 09:32:14.881753,CUST3245,success,2026-03-25,9,Wednesday,March
+TXN202604190994,Downtown Branch,withdrawal,19.67,2026-04-18 18:54:14.881770,CUST6670,success,2026-04-18,18,Saturday,April
+TXN202604190995,Tourist Center,withdrawal,105.92,2026-04-11 11:12:14.881786,CUST3439,success,2026-04-11,11,Saturday,April
+TXN202604190996,University Campus Science,withdrawal,100.58,2026-04-16 03:59:14.881802,CUST1767,success,2026-04-16,3,Thursday,April
+TXN202604190997,Hospital Complex,withdrawal,292.13,2026-04-09 23:47:14.881818,CUST9107,success,2026-04-09,23,Thursday,April
+TXN202604190998,Shopping Mall North,transfer,173.7,2026-04-03 23:12:14.881834,CUST5180,success,2026-04-03,23,Friday,April
+TXN202604190999,Business District,transfer,150.11,2026-04-17 01:06:14.881848,CUST4680,failed,2026-04-17,1,Friday,April
+TXN202604191000,Residential Area East,withdrawal,37.56,2026-03-19 23:48:14.881866,CUST6347,success,2026-03-19,23,Thursday,March
