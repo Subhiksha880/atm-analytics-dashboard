@@ -1,0 +1,4 @@
+pycache__/
+.kaggle/
+*.pyc
+*.csv
